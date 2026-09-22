@@ -48,7 +48,9 @@ MAX_AGE_DAYS = 30
 PUBLIC_FIELDS = ("id", "company_display", "title", "location", "url",
                  "skill_level", "country", "updated_at", "date_discovered")
 
-APPLY_BADGE = "https://img.shields.io/badge/Apply-2563eb?style=for-the-badge"
+# The app's primary button (primary-700 pill, DM Sans Bold, arrow-up-right),
+# with the text outlined to paths so it renders the same without the font.
+APPLY_BUTTON = "assets/apply.svg"
 
 SECTIONS = {
     # marker name: (country group, skill_level)
@@ -159,7 +161,7 @@ def render_table(rows: list[dict], now: datetime) -> str:
         href = row["url"].replace('"', "%22")
         lines.append(
             f"| **{cell(row['company_display'])}** | {cell(row['title'])} | {cell(row['location'])} "
-            f"| <a href=\"{href}\"><img src=\"{APPLY_BADGE}\" alt=\"Apply\" height=\"22\"/></a> "
+            f"| <a href=\"{href}\"><img src=\"{APPLY_BUTTON}\" alt=\"Apply\" height=\"28\"/></a> "
             f"| {age_days(row, now) or 0}d |"
         )
     return "\n".join(lines)
