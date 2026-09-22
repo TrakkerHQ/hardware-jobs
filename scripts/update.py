@@ -161,7 +161,7 @@ def render_table(rows: list[dict], now: datetime) -> str:
         href = row["url"].replace('"', "%22")
         lines.append(
             f"| **{cell(row['company_display'])}** | {cell(row['title'])} | {cell(row['location'])} "
-            f"| <a href=\"{href}\"><img src=\"{APPLY_BUTTON}\" alt=\"Apply\" height=\"28\"/></a> "
+            f"| <a href=\"{href}\"><img src=\"{APPLY_BUTTON}\" alt=\"Apply\" height=\"36\"/></a> "
             f"| {age_days(row, now) or 0}d |"
         )
     return "\n".join(lines)
