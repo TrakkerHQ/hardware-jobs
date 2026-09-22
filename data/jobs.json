@@ -1254,17 +1254,6 @@
     "date_discovered": "2026-09-14T15:45:27.055745+00:00"
   },
   {
-    "id": 9345316,
-    "company_display": "BAE Systems",
-    "title": "2027 Entry Level Software Engineer - Hardware",
-    "location": "San Diego, California, USA",
-    "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25771&siteid=5403&jobid=302981",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": "2026-09-14T16:03:58.493000+00:00",
-    "date_discovered": "2026-09-14T16:21:50.563594+00:00"
-  },
-  {
     "id": 9354230,
     "company_display": "Lockheed Martin",
     "title": "Embedded Software Engineer Intern",
@@ -1274,28 +1263,6 @@
     "country": "us",
     "updated_at": null,
     "date_discovered": "2026-09-14T16:46:37.752221+00:00"
-  },
-  {
-    "id": 9357825,
-    "company_display": "BAE Systems",
-    "title": "Hardware Engineering Intern III, Summer 2027 (Onsite)",
-    "location": "San Diego, California, USA",
-    "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25771&siteid=5403&jobid=303945",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-14T16:03:58.493000+00:00",
-    "date_discovered": "2026-09-14T16:53:02.158685+00:00"
-  },
-  {
-    "id": 9358619,
-    "company_display": "Marvell",
-    "title": "Analog Layout Intern",
-    "location": "Santa Clara, CA",
-    "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Analog-Layout-Intern_2604101-1",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-14T17:05:10.153584+00:00",
-    "date_discovered": "2026-09-14T17:06:13.247200+00:00"
   },
   {
     "id": 9362204,
@@ -2486,6 +2453,17 @@
     "date_discovered": "2026-09-17T23:45:04.741370+00:00"
   },
   {
+    "id": 11030289,
+    "company_display": "Microsoft",
+    "title": "Silicon Engineering Internship (6-month Program)",
+    "location": "USA, California, Mountain View; United States, Oregon, Hillsboro",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556982259",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-09-18T03:09:49.156590+00:00"
+  },
+  {
     "id": 11089876,
     "company_display": "Micron",
     "title": "Intern - MSB Test Engineering",
@@ -2827,17 +2805,6 @@
     "date_discovered": "2026-09-18T18:45:20.682897+00:00"
   },
   {
-    "id": 11364360,
-    "company_display": "Illinois Tool Works",
-    "title": "Software Engineering Intern",
-    "location": "Appleton, Wisconsin, USA",
-    "url": "https://itw.wd5.myworkdayjobs.com/External/job/Appleton-1635-W-Spencer/Software-Engineering-Intern_JR10122/apply",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-18T00:00:00+00:00",
-    "date_discovered": "2026-09-18T21:17:24.783697+00:00"
-  },
-  {
     "id": 11370668,
     "company_display": "Etched",
     "title": "RTL Intern",
@@ -2849,15 +2816,15 @@
     "date_discovered": "2026-09-18T21:40:18.744280+00:00"
   },
   {
-    "id": 11379675,
-    "company_display": "Illinois-Tool-Works",
-    "title": "Software Engineering Intern",
-    "location": "Appleton, Wisconsin, USA",
-    "url": "https://itw.wd5.myworkdayjobs.com/External/job/Appleton-1635-W-Spencer/Software-Engineering-Intern_JR10122/apply",
+    "id": 11494444,
+    "company_display": "Microsoft",
+    "title": "Hardware Engineering Internship (6-Month Program)",
+    "location": "USA, Washington, Redmond",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557002608",
     "skill_level": "intern",
     "country": "us",
-    "updated_at": "2026-09-18T00:00:00+00:00",
-    "date_discovered": "2026-09-18T21:52:03.251702+00:00"
+    "updated_at": null,
+    "date_discovered": "2026-09-19T02:14:19.625354+00:00"
   },
   {
     "id": 11606340,
@@ -3586,17 +3553,6 @@
     "date_discovered": "2026-09-22T18:56:43.692821+00:00"
   },
   {
-    "id": 12712036,
-    "company_display": "Symbotic",
-    "title": "Intern - Hardware Engineer",
-    "location": "USA Wilmington, MA - ITC",
-    "url": "https://symbotic.wd504.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington-MA---ITC/Hardware-Engineer_R7976",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-22T19:24:07.804288+00:00",
-    "date_discovered": "2026-09-22T19:24:29.670844+00:00"
-  },
-  {
     "id": 12726353,
     "company_display": "Skyworks Solutions",
     "title": "Analog IC Design Co-Op (Summer/Fall 2027)",
@@ -3617,5 +3573,93 @@
     "country": "international",
     "updated_at": "2026-09-22T19:55:22.718875+00:00",
     "date_discovered": "2026-09-22T19:56:09.060641+00:00"
+  },
+  {
+    "id": 12734306,
+    "company_display": "Two Sigma",
+    "title": "TSS Hardware Engineering Internship (Summer 2027)",
+    "location": "United States - NY New York",
+    "url": "https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-TSS-Hardware-Engineering-Internship-Summer-2027/14289",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-09-22T20:18:06.609078+00:00"
+  },
+  {
+    "id": 12739336,
+    "company_display": "Lattice-Semiconductor",
+    "title": "Junior Firmware Engineer",
+    "location": "Duluth, Georgia",
+    "url": "https://latticesemi.wd5.myworkdayjobs.com/en-US/latticesemiconductorscareers/job/Duluth-Georgia/Junior-Firmware-Engineer_R-103111",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": "2026-09-22T00:00:00+00:00",
+    "date_discovered": "2026-09-22T20:24:06.317602+00:00"
+  },
+  {
+    "id": 12739856,
+    "company_display": "Symbotic",
+    "title": "Intern - Hardware Engineer",
+    "location": "USA Wilmington, MA - ITC",
+    "url": "https://symbotic.wd504.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington-MA---ITC/Hardware-Engineer_R8101",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-22T20:24:16.598912+00:00",
+    "date_discovered": "2026-09-22T20:24:38.310748+00:00"
+  },
+  {
+    "id": 12750146,
+    "company_display": "IBM",
+    "title": "Summer Research Intern 2027 - Integrated Circuit Design for Quantum Computing",
+    "location": "Yorktown Heights, USA",
+    "url": "https://careers.ibm.com/careers/JobDetail?jobId=133467",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-09-22T20:51:01.153959+00:00"
+  },
+  {
+    "id": 12757689,
+    "company_display": "Marvell",
+    "title": "Analog Layout Intern, BS - Summer 2027",
+    "location": "2 Locations",
+    "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Analog-Layout-Intern--BS---Summer-2027_2604735-1",
+    "skill_level": "intern",
+    "country": null,
+    "updated_at": "2026-09-22T21:11:08.035646+00:00",
+    "date_discovered": "2026-09-22T21:12:02.722788+00:00"
+  },
+  {
+    "id": 12758192,
+    "company_display": "Cisco",
+    "title": "Hardware Engineer II Intern - United States",
+    "location": "4 Locations",
+    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer-II-Intern---United-States_2024757",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-22T21:11:42.015081+00:00",
+    "date_discovered": "2026-09-22T21:12:29.672927+00:00"
+  },
+  {
+    "id": 12758592,
+    "company_display": "Astranis",
+    "title": "Hardware Test Intern (Winter 2027)",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4707012006",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-22T20:57:50+00:00",
+    "date_discovered": "2026-09-22T21:12:59.323786+00:00"
+  },
+  {
+    "id": 12769013,
+    "company_display": "Cisco",
+    "title": "Hardware Engineer II Intern - United States",
+    "location": "San Jose, California, USA",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer-II-Intern---United-States_2024757/apply",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-22T00:00:00+00:00",
+    "date_discovered": "2026-09-22T21:25:57.844512+00:00"
   }
 ]
