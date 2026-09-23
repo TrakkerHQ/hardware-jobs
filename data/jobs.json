@@ -55,6 +55,17 @@
     "date_discovered": "2026-09-09T11:08:31.478259+00:00"
   },
   {
+    "id": 7784912,
+    "company_display": "Cisco",
+    "title": "Junior DFT Engineer- ETR- Israel",
+    "location": "Tel Aviv-Yafo, Israel",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Tel-Aviv-Yafo-Israel/Junior-DFT-Engineer--ETR--Israel_2025235/apply",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-09-09T00:00:00+00:00",
+    "date_discovered": "2026-09-09T12:11:47.581674+00:00"
+  },
+  {
     "id": 7799478,
     "company_display": "Raytheon",
     "title": "2026- Fulltime- Systems Engineer I- Onsite",
@@ -1263,6 +1274,17 @@
     "country": "us",
     "updated_at": null,
     "date_discovered": "2026-09-14T16:46:37.752221+00:00"
+  },
+  {
+    "id": 9357825,
+    "company_display": "BAE Systems",
+    "title": "Hardware Engineering Intern III, Summer 2027 (Onsite)",
+    "location": "San Diego, California, USA",
+    "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25771&siteid=5403&jobid=303945",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-14T16:03:58.493000+00:00",
+    "date_discovered": "2026-09-14T16:53:02.158685+00:00"
   },
   {
     "id": 9362204,
@@ -2805,6 +2827,17 @@
     "date_discovered": "2026-09-18T18:45:20.682897+00:00"
   },
   {
+    "id": 11364360,
+    "company_display": "Illinois Tool Works",
+    "title": "Software Engineering Intern",
+    "location": "Appleton, Wisconsin, USA",
+    "url": "https://itw.wd5.myworkdayjobs.com/External/job/Appleton-1635-W-Spencer/Software-Engineering-Intern_JR10122/apply",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-18T00:00:00+00:00",
+    "date_discovered": "2026-09-18T21:17:24.783697+00:00"
+  },
+  {
     "id": 11370668,
     "company_display": "Etched",
     "title": "RTL Intern",
@@ -2814,6 +2847,17 @@
     "country": "us",
     "updated_at": "2026-09-18T21:28:43.279000+00:00",
     "date_discovered": "2026-09-18T21:40:18.744280+00:00"
+  },
+  {
+    "id": 11379675,
+    "company_display": "Illinois-Tool-Works",
+    "title": "Software Engineering Intern",
+    "location": "Appleton, Wisconsin, USA",
+    "url": "https://itw.wd5.myworkdayjobs.com/External/job/Appleton-1635-W-Spencer/Software-Engineering-Intern_JR10122/apply",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-18T00:00:00+00:00",
+    "date_discovered": "2026-09-18T21:52:03.251702+00:00"
   },
   {
     "id": 11494444,
@@ -3661,5 +3705,16 @@
     "country": "us",
     "updated_at": "2026-09-22T00:00:00+00:00",
     "date_discovered": "2026-09-22T21:25:57.844512+00:00"
+  },
+  {
+    "id": 12814502,
+    "company_display": "Raytheon",
+    "title": "Systems Engineer I - (Onsite)",
+    "location": "US-TX-MCKINNEY-513WD ~ 2501 W University Dr ~ WING D BLDG",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Systems-Engineer-I----Onsite-_01872217",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": "2026-09-22T23:11:06.375934+00:00",
+    "date_discovered": "2026-09-22T23:13:02.246088+00:00"
   }
 ]
