@@ -319,17 +319,6 @@
     "date_discovered": "2026-09-09T22:04:51.511733+00:00"
   },
   {
-    "id": 7970777,
-    "company_display": "Honeywell",
-    "title": "Hardware Engr I",
-    "location": "China",
-    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/153938",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": "2026-07-23T00:00:00+00:00",
-    "date_discovered": "2026-09-09T22:05:01.158655+00:00"
-  },
-  {
     "id": 7974846,
     "company_display": "Skyworks Solutions",
     "title": "WiFi FEM Design Co Op (May 2027 April 2028) ON",
@@ -539,6 +528,17 @@
     "date_discovered": "2026-09-10T01:45:42.589614+00:00"
   },
   {
+    "id": 8030535,
+    "company_display": "Raytheon",
+    "title": "Advanced Measurement Str Data Recording Summer Intern (Onsite)",
+    "location": "US-CT-MIDDLETOWN-220A ~ Aircraft Rd ~ BLDG 220A",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-MIDDLETOWN-220A--Aircraft-Rd--BLDG-220A/Advanced-Measurement-Str-Data-Recording-Summer-Intern--Onsite-_01872890",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-10T05:02:44.504637+00:00",
+    "date_discovered": "2026-09-10T05:03:34.290003+00:00"
+  },
+  {
     "id": 8047745,
     "company_display": "General Dynamics",
     "title": "Payload Control System - Software/Systems Engineering Intern (Summer 2027)",
@@ -616,6 +616,17 @@
     "date_discovered": "2026-09-10T17:00:13.620123+00:00"
   },
   {
+    "id": 8122534,
+    "company_display": "Raytheon",
+    "title": "Software Engineering Co-op (Spring/Summer 2027)",
+    "location": "US-IA-CEDAR RAPIDS-182 ~ 1100 Cimmie Ave Ne ~ BLDG 182",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Co-op--Spring-Summer-2027-_01871551",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-10T17:21:25.020841+00:00",
+    "date_discovered": "2026-09-10T17:22:17.338093+00:00"
+  },
+  {
     "id": 8122535,
     "company_display": "Raytheon",
     "title": "Digital Hardware Design Engineer (2027 New College Graduate)",
@@ -627,6 +638,28 @@
     "date_discovered": "2026-09-10T17:22:17.374181+00:00"
   },
   {
+    "id": 8144799,
+    "company_display": "Raytheon",
+    "title": "Software Engineer Co-Op - Onsite",
+    "location": "US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineer-Co-Op---Onsite_01871478",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-10T18:21:30.860192+00:00",
+    "date_discovered": "2026-09-10T18:22:21.086661+00:00"
+  },
+  {
+    "id": 8154814,
+    "company_display": "Marvell",
+    "title": "Ph.D. Intern - AI/ML & Design Automation",
+    "location": "9 Locations",
+    "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/PhD-Intern---AI-ML---Design-Automation_2604412",
+    "skill_level": "intern",
+    "country": null,
+    "updated_at": "2026-09-10T18:49:53.900127+00:00",
+    "date_discovered": "2026-09-10T18:51:16.580699+00:00"
+  },
+  {
     "id": 8165576,
     "company_display": "Rocket Lab",
     "title": "Propulsion Design Intern Summer 2027",
@@ -636,6 +669,17 @@
     "country": "us",
     "updated_at": "2026-09-10T19:05:50+00:00",
     "date_discovered": "2026-09-10T19:20:18.992866+00:00"
+  },
+  {
+    "id": 8177288,
+    "company_display": "Marvell",
+    "title": "Ph.D. Intern - Silicon Photonics & Optical Communications",
+    "location": "9 Locations",
+    "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/PhD-Intern---Silicon-Photonics---Optical-Communications_2604414",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-10T19:49:49.811991+00:00",
+    "date_discovered": "2026-09-10T19:50:59.866166+00:00"
   },
   {
     "id": 8207202,
@@ -715,6 +759,17 @@
     "date_discovered": "2026-09-11T02:53:41.298855+00:00"
   },
   {
+    "id": 8337633,
+    "company_display": "Micron",
+    "title": "Intern- MSB Test Engineer",
+    "location": "MSB, Singapore",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/MSB-Singapore/Intern--MSB-Test-Engineer_JR110515",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-09-11T02:52:40.497925+00:00",
+    "date_discovered": "2026-09-11T02:54:09.360933+00:00"
+  },
+  {
     "id": 8392338,
     "company_display": "Ambarella",
     "title": "Mixed Signal Engineer Intern",
@@ -724,6 +779,17 @@
     "country": "us",
     "updated_at": "2026-09-09T07:14:58.805125+00:00",
     "date_discovered": "2026-09-11T07:15:06.719504+00:00"
+  },
+  {
+    "id": 8405031,
+    "company_display": "Micron",
+    "title": "INTERNSHIP - NAND Cell Characterization & AI Tools",
+    "location": "Vimercate (MB), Italy",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Vimercate-MB-Italy/INTERNSHIP---NAND-Cell-Characterization---AI-Tools_JR111212",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-09-11T11:35:44.372006+00:00",
+    "date_discovered": "2026-09-11T11:36:47.315068+00:00"
   },
   {
     "id": 8433184,
@@ -889,6 +955,17 @@
     "country": "international",
     "updated_at": null,
     "date_discovered": "2026-09-11T21:30:59.278796+00:00"
+  },
+  {
+    "id": 8626710,
+    "company_display": "NVIDIA",
+    "title": "Silicon Co-design Intern - 2027",
+    "location": "China, Shanghai",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Silicon-Co-design-Intern---2027_JR2025055-1",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-09-11T21:31:43.202116+00:00",
+    "date_discovered": "2026-09-11T21:32:44.805524+00:00"
   },
   {
     "id": 8631351,
@@ -1100,6 +1177,28 @@
     "date_discovered": "2026-09-14T03:00:40.301941+00:00"
   },
   {
+    "id": 9176815,
+    "company_display": "Raytheon",
+    "title": "Systems Engineering Intern- Onsite",
+    "location": "US-MA-TEWKSBURY-TB1 ~ 50 Apple Hill Dr ~ ASSABET BLDG",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Systems-Engineering-Intern--Onsite_01874255",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-14T05:00:13.166644+00:00",
+    "date_discovered": "2026-09-14T05:01:43.002753+00:00"
+  },
+  {
+    "id": 9201556,
+    "company_display": "Micron",
+    "title": "Intern- NAND Probe Product Engineering",
+    "location": "Fab 10N/X, Singapore",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Fab-10NX-Singapore/NAND-Probe-Product-Engineering-Intern_JR110823",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-09-14T07:00:47.918436+00:00",
+    "date_discovered": "2026-09-14T07:01:44.315183+00:00"
+  },
+  {
     "id": 9217705,
     "company_display": "Arm",
     "title": "GPU Hardware Intern",
@@ -1243,6 +1342,17 @@
     "date_discovered": "2026-09-14T15:07:35.607755+00:00"
   },
   {
+    "id": 9321829,
+    "company_display": "Raytheon",
+    "title": "Systems Engineering Intern (Summer 2027)",
+    "location": "US-AZ-TUCSON-848 ~ 1151 E Hermans Rd ~ BLDG 848",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-848--1151-E-Hermans-Rd--BLDG-848/Systems-Engineering-Intern--Summer-2027-_01870304",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-14T15:35:16.925347+00:00",
+    "date_discovered": "2026-09-14T15:36:38.844999+00:00"
+  },
+  {
     "id": 9322179,
     "company_display": "Western Digital",
     "title": "Spring 2027 Co-Op - AI Systems Strategy",
@@ -1263,6 +1373,17 @@
     "country": "us",
     "updated_at": "2026-09-14T00:00:00+00:00",
     "date_discovered": "2026-09-14T15:45:27.055745+00:00"
+  },
+  {
+    "id": 9345316,
+    "company_display": "BAE Systems",
+    "title": "2027 Entry Level Software Engineer - Hardware",
+    "location": "San Diego, California, USA",
+    "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25771&siteid=5403&jobid=302981",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": "2026-09-14T16:03:58.493000+00:00",
+    "date_discovered": "2026-09-14T16:21:50.563594+00:00"
   },
   {
     "id": 9354230,
@@ -1309,15 +1430,15 @@
     "date_discovered": "2026-09-14T17:37:48.905825+00:00"
   },
   {
-    "id": 9372736,
-    "company_display": "Intel",
-    "title": "Silicon Design - Flows and Methodology Intern",
-    "location": "Mexico, Guadalajara",
-    "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/Silicon-Design---Flows-and-Methodology-Intern_JR0286647",
+    "id": 9372338,
+    "company_display": "Micron",
+    "title": "Intern - Clock Design & Architecture, Intern",
+    "location": "Richardson, TX",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Richardson-TX/Intern---Clock-Design---Architecture--Intern_JR110765",
     "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-14T17:36:11.867286+00:00",
-    "date_discovered": "2026-09-14T17:38:22.397436+00:00"
+    "country": "us",
+    "updated_at": "2026-09-14T17:35:51.117614+00:00",
+    "date_discovered": "2026-09-14T17:37:49.753653+00:00"
   },
   {
     "id": 9379466,
@@ -1716,6 +1837,17 @@
     "date_discovered": "2026-09-15T13:38:27.059786+00:00"
   },
   {
+    "id": 9726647,
+    "company_display": "Boeing",
+    "title": "Entry Level Command and Data Handling Network Engineer (Autonomous Navigation Systems)",
+    "location": "USA - El Segundo, CA",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---El-Segundo-CA/Command-and-Data-Handling-Network--Autonomous-Navigation-Systems-_JR2026523750",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": "2026-09-15T13:38:03.610736+00:00",
+    "date_discovered": "2026-09-15T13:39:31.105694+00:00"
+  },
+  {
     "id": 9733919,
     "company_display": "Huntington Ingalls Industries",
     "title": "2027 COLLEGE SUMMER INTERN COMPUTER ENGINEERING Miss",
@@ -1725,17 +1857,6 @@
     "country": "us",
     "updated_at": null,
     "date_discovered": "2026-09-15T13:47:43.753126+00:00"
-  },
-  {
-    "id": 9737574,
-    "company_display": "Micron",
-    "title": "Intern - Design Engineer, HBM",
-    "location": "Richardson, TX",
-    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Richardson-TX/Intern---Design-Engineer--HBM_JR110452",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-15T14:05:37.882790+00:00",
-    "date_discovered": "2026-09-15T14:07:05.141879+00:00"
   },
   {
     "id": 9739541,
@@ -1826,6 +1947,17 @@
     "date_discovered": "2026-09-15T14:48:17.715512+00:00"
   },
   {
+    "id": 9775374,
+    "company_display": "Micron",
+    "title": "Intern - AI Hardware and Memory Systems",
+    "location": "Folsom, CA",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Folsom-CA/Intern---AI-Hardware-and-Memory-Systems_JR111017",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-15T15:35:35.786866+00:00",
+    "date_discovered": "2026-09-15T15:38:06.463072+00:00"
+  },
+  {
     "id": 9777033,
     "company_display": "Gecko-Robotics",
     "title": "Test & Reliability Engineering Intern",
@@ -1857,6 +1989,39 @@
     "country": "us",
     "updated_at": "2026-09-15T16:05:08.462612+00:00",
     "date_discovered": "2026-09-15T16:07:12.816094+00:00"
+  },
+  {
+    "id": 9800289,
+    "company_display": "Micron",
+    "title": "Intern - Firmware Engineer",
+    "location": "Longmont-MAX- Office, CO",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Longmont-MAX--Office-CO/Intern---Firmware-Engineer_JR111584",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-15T16:35:14.532483+00:00",
+    "date_discovered": "2026-09-15T16:37:05.714595+00:00"
+  },
+  {
+    "id": 9800307,
+    "company_display": "Micron",
+    "title": "Intern - ASIC Validation",
+    "location": "Minneapolis, MN",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Minneapolis-MN/Intern---ASIC-Validation_JR111823",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-15T16:35:43.537850+00:00",
+    "date_discovered": "2026-09-15T16:37:07.056980+00:00"
+  },
+  {
+    "id": 9800310,
+    "company_display": "Micron",
+    "title": "Intern - HBM SoC Physical Design Engineer",
+    "location": "Folsom, CA",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Folsom-CA/Intern---HBM-SoC-Physical-Design-Engineer_JR111041",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-15T16:35:43.539770+00:00",
+    "date_discovered": "2026-09-15T16:37:07.179084+00:00"
   },
   {
     "id": 9813641,
@@ -2167,17 +2332,6 @@
     "date_discovered": "2026-09-16T16:48:13.295942+00:00"
   },
   {
-    "id": 10364197,
-    "company_display": "Raytheon",
-    "title": "RF/Microwave Engineering Intern (Summer 2027)",
-    "location": "US-MA-ANDOVER-AR1 ~ 358 Lowell St ~ AR1 DUKES BLDG",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MA-ANDOVER-AR1--358-Lowell-St--AR1-DUKES-BLDG/RF-Microwave-Engineering-Intern--Summer-2027-_01875478",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-16T20:05:09.422403+00:00",
-    "date_discovered": "2026-09-16T20:06:30.542752+00:00"
-  },
-  {
     "id": 10387855,
     "company_display": "Cisco",
     "title": "Software Developer Embedded Systems I (Co-op) - Canada",
@@ -2189,17 +2343,6 @@
     "date_discovered": "2026-09-16T20:49:37.254697+00:00"
   },
   {
-    "id": 10388506,
-    "company_display": "Garmin",
-    "title": "Software Engineering Intern",
-    "location": "Manhattan, Kansas",
-    "url": "https://careers-garmin.icims.com/jobs/20177/login",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-16T20:20:00+00:00",
-    "date_discovered": "2026-09-16T20:51:12.317810+00:00"
-  },
-  {
     "id": 10404335,
     "company_display": "Arista Networks",
     "title": "Software Engineer Intern 2026/2027",
@@ -2209,28 +2352,6 @@
     "country": "international",
     "updated_at": "2026-09-16T21:32:30.255000+00:00",
     "date_discovered": "2026-09-16T21:38:06.097042+00:00"
-  },
-  {
-    "id": 10554225,
-    "company_display": "Infineon",
-    "title": "Internship - Edge AI",
-    "location": "Seongnam",
-    "url": "https://jobs.infineon.com/careers/job/563808971990836",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-09-17T03:11:08.075124+00:00"
-  },
-  {
-    "id": 10600966,
-    "company_display": "Marvell",
-    "title": "Design Verification Intern",
-    "location": "2 Locations",
-    "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Petah-Tikva/Design-Verification-Intern_2604494",
-    "skill_level": "intern",
-    "country": null,
-    "updated_at": "2026-09-17T11:00:16.874270+00:00",
-    "date_discovered": "2026-09-17T11:01:22.830495+00:00"
   },
   {
     "id": 10648647,
@@ -2506,39 +2627,6 @@
     "country": "international",
     "updated_at": "2026-09-18T11:01:01.399050+00:00",
     "date_discovered": "2026-09-18T11:02:28.117687+00:00"
-  },
-  {
-    "id": 11107390,
-    "company_display": "Synopsys",
-    "title": "Junior Field Applications Engineer, ASIC Design",
-    "location": "Not specified",
-    "url": "https://synopsys.avature.net/careers/JobDetail/Applications-Engineering-Sr-Engineer-18865/18865?businessTitle=Junior+Field+Applications+Engineer%2C+ASIC+Design",
-    "skill_level": "entry",
-    "country": null,
-    "updated_at": null,
-    "date_discovered": "2026-09-18T11:43:33.787218+00:00"
-  },
-  {
-    "id": 11109296,
-    "company_display": "Microsoft",
-    "title": "Hardware Engineering INTERN",
-    "location": "India, Karnataka, Bangalore",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393557000861",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-09-18T11:44:45.649058+00:00"
-  },
-  {
-    "id": 11109301,
-    "company_display": "Microsoft",
-    "title": "Silicon Engineering INTERN",
-    "location": "India, Karnataka, Bangalore",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393557000875",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-09-18T11:44:45.757515+00:00"
   },
   {
     "id": 11136766,
@@ -2849,17 +2937,6 @@
     "date_discovered": "2026-09-18T21:40:18.744280+00:00"
   },
   {
-    "id": 11379675,
-    "company_display": "Illinois-Tool-Works",
-    "title": "Software Engineering Intern",
-    "location": "Appleton, Wisconsin, USA",
-    "url": "https://itw.wd5.myworkdayjobs.com/External/job/Appleton-1635-W-Spencer/Software-Engineering-Intern_JR10122/apply",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-18T00:00:00+00:00",
-    "date_discovered": "2026-09-18T21:52:03.251702+00:00"
-  },
-  {
     "id": 11494444,
     "company_display": "Microsoft",
     "title": "Hardware Engineering Internship (6-Month Program)",
@@ -2880,6 +2957,17 @@
     "country": "us",
     "updated_at": "2026-09-18T00:00:00+00:00",
     "date_discovered": "2026-09-19T13:45:10.202808+00:00"
+  },
+  {
+    "id": 11731318,
+    "company_display": "Raytheon",
+    "title": "Systems Engineering - Summer Intern 2027 - Onsite",
+    "location": "US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Systems-Engineering---Summer-Intern-2027---Onsite_01873971",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-20T04:35:37.444906+00:00",
+    "date_discovered": "2026-09-20T04:36:35.594368+00:00"
   },
   {
     "id": 11923597,
@@ -2992,6 +3080,17 @@
     "date_discovered": "2026-09-21T15:50:15.836011+00:00"
   },
   {
+    "id": 12125200,
+    "company_display": "Raytheon",
+    "title": "Software Engineering Intern (Summer 2027)",
+    "location": "US-IN-FT WAYNE-150A ~ 1010 Production Rd ~ BLDG 150A",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineering-Intern--Summer-2027-_01875725",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-21T16:05:19.495856+00:00",
+    "date_discovered": "2026-09-21T16:06:41.956359+00:00"
+  },
+  {
     "id": 12138017,
     "company_display": "Marvell",
     "title": "Digital IC Design Intern, MS - Summer 2027",
@@ -3025,6 +3124,17 @@
     "date_discovered": "2026-09-21T16:38:43.143254+00:00"
   },
   {
+    "id": 12164789,
+    "company_display": "Raytheon",
+    "title": "2026 Raytheon Full Time- Software Engineer I -(Onsite)",
+    "location": "US-CA-EL SEGUNDO-E01 ~ 2000 E El Segundo Blvd ~ BLDG E01",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/XMLNAME-2026-Raytheon-Full-Time--Software-Engineer-I---Onsite-_01852152",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": "2026-09-21T17:35:21.018810+00:00",
+    "date_discovered": "2026-09-21T17:36:55.133176+00:00"
+  },
+  {
     "id": 12171603,
     "company_display": "IBM",
     "title": "Quantum Control Systems FPGA Developer Internship 2027",
@@ -3045,6 +3155,17 @@
     "country": "us",
     "updated_at": null,
     "date_discovered": "2026-09-21T17:45:17.005779+00:00"
+  },
+  {
+    "id": 12191649,
+    "company_display": "Micron",
+    "title": "Intern - Design Engineer, HBM",
+    "location": "Richardson, TX",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Richardson-TX/Intern---Design-Engineer--HBM_JR111814",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-21T18:35:36.508442+00:00",
+    "date_discovered": "2026-09-21T18:37:14.118919+00:00"
   },
   {
     "id": 12214561,
@@ -3080,6 +3201,17 @@
     "date_discovered": "2026-09-21T19:45:49.708623+00:00"
   },
   {
+    "id": 12231376,
+    "company_display": "Raytheon",
+    "title": "Head-up Guidance Systems Engineering Co-op (Summer/Fall 2027) - Onsite",
+    "location": "US-OR-WILSONVILLE-596 ~ 27500 SW Parkway Ave ~ BLDG 596",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-OR-WILSONVILLE-596--27500-SW-Parkway-Ave--BLDG-596/Head-up-Guidance-Systems-Engineering-Co-op--Summer-Fall-2027----Onsite_01872243",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-21T20:05:16.323330+00:00",
+    "date_discovered": "2026-09-21T20:07:15.887290+00:00"
+  },
+  {
     "id": 12234668,
     "company_display": "Hpe",
     "title": "Systems / Software Engineer I Graduate",
@@ -3111,6 +3243,17 @@
     "country": "us",
     "updated_at": "2026-09-21T20:08:20.281329+00:00",
     "date_discovered": "2026-09-21T20:11:37.656097+00:00"
+  },
+  {
+    "id": 12257808,
+    "company_display": "Micron",
+    "title": "Intern \u2013 DRAM Technology Physical Design and Block-Level PPA Optimization",
+    "location": "Boise, ID - Main Site",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---DRAM-Technology-Physical-Design-and-Block-Level-PPA-Optimization_JR109584",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-21T21:05:43.301105+00:00",
+    "date_discovered": "2026-09-21T21:07:14.698881+00:00"
   },
   {
     "id": 12280185,
@@ -3309,17 +3452,6 @@
     "country": "international",
     "updated_at": "2026-09-22T10:14:23+00:00",
     "date_discovered": "2026-09-22T11:03:23.921112+00:00"
-  },
-  {
-    "id": 12492758,
-    "company_display": "Sifive",
-    "title": "System Validation Engineer (New Grads)",
-    "location": "Taiwan",
-    "url": "https://sifive.wd1.myworkdayjobs.com/en-US/sifivecareers/job/Hsinchu-Taiwan/System-Validation-Engineer--New-Grads-_R-101316",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": "2026-09-14T00:00:00+00:00",
-    "date_discovered": "2026-09-22T11:12:08.804917+00:00"
   },
   {
     "id": 12523855,
@@ -3716,5 +3848,621 @@
     "country": "us",
     "updated_at": "2026-09-22T23:11:06.375934+00:00",
     "date_discovered": "2026-09-22T23:13:02.246088+00:00"
+  },
+  {
+    "id": 12900986,
+    "company_display": "Honeywell",
+    "title": "Embedded Engr I",
+    "location": "Xi'an, Shaanxi, China",
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/158518",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-09-23T00:00:00+00:00",
+    "date_discovered": "2026-09-23T02:06:42.710813+00:00"
+  },
+  {
+    "id": 12915759,
+    "company_display": "Nxp",
+    "title": "DFT Verification intern",
+    "location": "Tianjin (Teda)",
+    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/Careers/job/Tianjin-Teda/DFT-Verification-intern_R-10066777",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-09-23T02:36:02.078610+00:00",
+    "date_discovered": "2026-09-23T02:37:37.937084+00:00"
+  },
+  {
+    "id": 12919595,
+    "company_display": "Boston-Scientific",
+    "title": "R&D Hardware Engineering Intern",
+    "location": "Arden Hills US-MN, United States | N/A",
+    "url": "https://bostonscientific.eightfold.ai/careers/job/563602813600599",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-09-23T02:42:33.699896+00:00"
+  },
+  {
+    "id": 12941038,
+    "company_display": "Micron",
+    "title": "Intern - Design Engineer, HIG HBM",
+    "location": "Richardson, TX",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Richardson-TX/Intern---Design-Engineer--HIG-HBM_JR112512",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-23T04:00:46.127948+00:00",
+    "date_discovered": "2026-09-23T04:02:39.942403+00:00"
+  },
+  {
+    "id": 12943350,
+    "company_display": "Nxp",
+    "title": "AI Verification Engineering Intern",
+    "location": "Tianjin (Teda)",
+    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/Careers/job/Tianjin-Teda/AI-Verification-Engineering-Intern_R-10066766",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-09-23T04:04:10.840993+00:00",
+    "date_discovered": "2026-09-23T04:05:54.868831+00:00"
+  },
+  {
+    "id": 12943400,
+    "company_display": "Nxp",
+    "title": "Analog/Mixed-Signal Design Intern",
+    "location": "Tianjin (Teda)",
+    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/Careers/job/Tianjin-Teda/Analog-Mixed-Signal-Design-Intern_R-10066740",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-09-23T04:04:39.186066+00:00",
+    "date_discovered": "2026-09-23T04:05:59.320121+00:00"
+  },
+  {
+    "id": 12995550,
+    "company_display": "Marvell",
+    "title": "Digital IC Design Intern",
+    "location": "IL - Petah Tikva",
+    "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/IL---Petah-Tikva/Digital-IC-Design-Intern_2604490",
+    "skill_level": "intern",
+    "country": null,
+    "updated_at": "2026-09-23T11:00:16.035693+00:00",
+    "date_discovered": "2026-09-23T11:01:10.378357+00:00"
+  },
+  {
+    "id": 13048567,
+    "company_display": "General Dynamics",
+    "title": "Junior Embedded Software Engineer",
+    "location": "Bloomington, MN, USA",
+    "url": "https://www.gd.com/careers/junior-embedded-software-engineer-bloomington-mn-us-2026-75099-gdms-opportunity",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": "2026-09-22T00:00:00+00:00",
+    "date_discovered": "2026-09-23T12:50:12.081119+00:00"
+  },
+  {
+    "id": 13078546,
+    "company_display": "Marvell",
+    "title": "Security Verification/Validation Engineer Intern, BS - Summer 2027",
+    "location": "Chandler, AZ",
+    "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Chandler-AZ/Security-Verification-Validation-Engineer-Intern--BS---Summer-2027_2604148-1",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-23T14:05:17.374135+00:00",
+    "date_discovered": "2026-09-23T14:06:12.853420+00:00"
+  },
+  {
+    "id": 13086529,
+    "company_display": "Qualcomm",
+    "title": "EDT - FY27 Intern - Engineering Internship 2027 - 6 months, Cork",
+    "location": "Cork, Ireland",
+    "url": "https://careers.qualcomm.com/careers/job/446721045034",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-09-23T14:16:21.772244+00:00"
+  },
+  {
+    "id": 13094341,
+    "company_display": "Intel",
+    "title": "Firmware Development Undergraduate Engineering Co-op",
+    "location": "Virtual Canada",
+    "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Virtual-Canada/Firmware-Development-Undergraduate-Engineering-Co-op_JR0286862",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-09-23T14:35:16.706567+00:00",
+    "date_discovered": "2026-09-23T14:37:53.511124+00:00"
+  },
+  {
+    "id": 13094343,
+    "company_display": "Intel",
+    "title": "System Simulation Engineering CO-OP",
+    "location": "Virtual Canada",
+    "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Virtual-Canada/System-Simulation-Engineering-CO-OP_JR0287122",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-09-23T14:35:16.706869+00:00",
+    "date_discovered": "2026-09-23T14:37:53.681738+00:00"
+  },
+  {
+    "id": 13114622,
+    "company_display": "Cadence Design Systems",
+    "title": "Intern: Software Engineering: Hardware Verification R&D",
+    "location": "BELO HORIZONTE",
+    "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/BELO-HORIZONTE/Intern--Software-Engineering--Hardware-Verification-R-D_R56477",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-09-23T15:14:31.880401+00:00",
+    "date_discovered": "2026-09-23T15:16:41.546724+00:00"
+  },
+  {
+    "id": 13116358,
+    "company_display": "Zoox",
+    "title": "Contract Student Worker \u2013 Firmware Engineer (FW Thermal/Body)",
+    "location": "Foster City, CA",
+    "url": "https://jobs.lever.co/zoox/07f0834f-06ec-44c7-a24b-3efa08589d38",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-09-23T15:19:24.832186+00:00"
+  },
+  {
+    "id": 13116378,
+    "company_display": "Zoox",
+    "title": "Contract Student Worker \u2013 Hardware Software Integration Engineer (Full-Time 40 hrs/wk)",
+    "location": "Hayward, CA",
+    "url": "https://jobs.lever.co/zoox/76845566-1870-4836-91ee-ff8e27462f8d",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-09-23T15:19:26.240747+00:00"
+  },
+  {
+    "id": 13118361,
+    "company_display": "Marvell",
+    "title": "Analog Engineer Intern - PhD",
+    "location": "Toronto, Canada",
+    "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Toronto-Canada/Analog-Engineer-Intern---PhD_2502426-1",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-08-24T15:22:52.044541+00:00",
+    "date_discovered": "2026-09-23T15:23:05.490127+00:00"
+  },
+  {
+    "id": 13118368,
+    "company_display": "Marvell",
+    "title": "Physical Design Intern",
+    "location": "Cordoba, Argentina",
+    "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Cordoba-Argentina/Physical-Design-Intern_2601502",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-08-24T15:22:52.045035+00:00",
+    "date_discovered": "2026-09-23T15:23:05.908745+00:00"
+  },
+  {
+    "id": 13119898,
+    "company_display": "Cisco",
+    "title": "Software Developer Embedded Systems I (Co-op) - Canada",
+    "location": "Kanata, Ontario, Canada; Saint-Laurent, Quebec, Canada; Calgary, Alberta, Canada; Toronto, Canada; Montreal, Canada; Ottawa, Canada",
+    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Kanata-Ontario-Canada/Software-Developer-Embedded-Systems-I--Co-op----Canada_2024111",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-09-16T15:23:20.204050+00:00",
+    "date_discovered": "2026-09-23T15:25:57.773100+00:00"
+  },
+  {
+    "id": 13119899,
+    "company_display": "Cisco",
+    "title": "Hardware Engineer I (Full Time) - United States",
+    "location": "San Jose, California, US; Austin, Texas, US; RTP, North Carolina, US; Carlsbad, USA",
+    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer-I--Full-Time----United-States_2024649",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": "2026-09-16T15:23:20.258093+00:00",
+    "date_discovered": "2026-09-23T15:25:57.794857+00:00"
+  },
+  {
+    "id": 13121561,
+    "company_display": "Analog Devices",
+    "title": "Associate Digital Design Engineer",
+    "location": "Philippines, Cavite (jp)",
+    "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Philippines-Cavite-jp/Associate-Digital-Design-Engineer_R265867",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-09-08T15:27:23.966320+00:00",
+    "date_discovered": "2026-09-23T15:29:27.086424+00:00"
+  },
+  {
+    "id": 13122097,
+    "company_display": "NVIDIA",
+    "title": "Server Firmware Developer (RDSS Intern)",
+    "location": "Taiwan, Taipei",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Server-Firmware-Developer--RDSS-Intern-_JR2025558",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-09-16T15:26:20.545865+00:00",
+    "date_discovered": "2026-09-23T15:30:20.106373+00:00"
+  },
+  {
+    "id": 13122102,
+    "company_display": "NVIDIA",
+    "title": "Physical Design Engineer (RDSS Intern)",
+    "location": "Taiwan, Hsinchu",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/Physical-Design-Engineer--RDSS-Intern-_JR2025027",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-09-15T15:26:31.560045+00:00",
+    "date_discovered": "2026-09-23T15:30:20.277481+00:00"
+  },
+  {
+    "id": 13123038,
+    "company_display": "Northrop Grumman",
+    "title": "2027 Digital Engineer - Pathways Program - Baltimore MD",
+    "location": "United States-Maryland-Baltimore",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027--Digital-Engineer---Pathways-Program---Baltimore-MD_R10251171",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": "2026-09-23T15:25:20.899176+00:00",
+    "date_discovered": "2026-09-23T15:30:53.035310+00:00"
+  },
+  {
+    "id": 13123733,
+    "company_display": "Micron",
+    "title": "New College Grad - HBM Layout Engineer",
+    "location": "Jalisco, Mexico",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Jalisco-Mexico/New-College-Grad---HBM-Layout-Engineer_JR103884",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-08-24T15:30:23.676017+00:00",
+    "date_discovered": "2026-09-23T15:31:17.815088+00:00"
+  },
+  {
+    "id": 13123737,
+    "company_display": "Micron",
+    "title": "New College Grad - Mixed Signal Design Engineer, HBM",
+    "location": "Richardson, TX",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Richardson-TX/Staff-Mixed-Signal-Design-Engine--HBM_JR93217",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": "2026-08-24T15:30:24.266079+00:00",
+    "date_discovered": "2026-09-23T15:31:17.818912+00:00"
+  },
+  {
+    "id": 13123747,
+    "company_display": "Micron",
+    "title": "\u534a\u5c0e\u4f53\u30a8\u30f3\u30b8\u30cb\u30a2\uff082026\u30fb2027\u5e74\u5352\uff0f\u65e2\u5352\u6b53\u8fce\uff09\uff5cSemiconductor Engineer \u2013 Class of 2026/2027 & Recent Graduates",
+    "location": "Hiroshima - Fab 15, Japan",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Hiroshima---Fab-15-Japan/XMLNAME--26-27----Semiconductor-Engineer--Class-of-2026-27-and-Recent-Graduates-_JR87266",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-08-24T15:30:47.018230+00:00",
+    "date_discovered": "2026-09-23T15:31:17.824949+00:00"
+  },
+  {
+    "id": 13124167,
+    "company_display": "Leidos",
+    "title": "Entry-Level Test Engineer",
+    "location": "Huntsville, AL",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Entry-Level-Test-Engineer_R-00191583",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": "2026-09-08T15:30:19.220867+00:00",
+    "date_discovered": "2026-09-23T15:31:21.198243+00:00"
+  },
+  {
+    "id": 13125242,
+    "company_display": "Qualcomm",
+    "title": "2026 Campus Hire Associate Engineer HW",
+    "location": "Bangalore, India; Chennai, Tamil N\u0101du, India",
+    "url": "https://careers.qualcomm.com/careers/job/446706882410",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-09-23T15:32:02.402773+00:00"
+  },
+  {
+    "id": 13125243,
+    "company_display": "Qualcomm",
+    "title": "2027 Campus Hire Associate Engineer HW",
+    "location": "Bangalore, India; Chennai, Tamil N\u0101du, India",
+    "url": "https://careers.qualcomm.com/careers/job/446719783557",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-09-23T15:32:02.448873+00:00"
+  },
+  {
+    "id": 13127567,
+    "company_display": "Amazon",
+    "title": "Hardware Development Engineer Intern/Co-Op, ROBOTICS - 2027",
+    "location": "North Reading, Massachusetts, USA",
+    "url": "https://www.amazon.jobs/en/jobs/10535282/hardware-development-engineer-intern-co-op-robotics-2027",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-09T15:19:30.440291+00:00",
+    "date_discovered": "2026-09-23T15:40:34.733761+00:00"
+  },
+  {
+    "id": 13127573,
+    "company_display": "Amazon",
+    "title": "Cloud Hardware Development Engineer Intern, Annapurna Labs - 2027",
+    "location": "Austin, Texas, USA",
+    "url": "https://www.amazon.jobs/en/jobs/10517649/cloud-hardware-development-engineer-intern-annapurna-labs-2027",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-08-27T15:19:55.570522+00:00",
+    "date_discovered": "2026-09-23T15:40:34.755945+00:00"
+  },
+  {
+    "id": 13127607,
+    "company_display": "Amazon",
+    "title": "Robotics - Hardware Development Engineer Intern/Co-op - 2026 (Robotics, Mechanical, Electrical, Hardware Test, Reliability, Failure Analysis, Operations, and more)",
+    "location": "Westboro, Wisconsin, USA",
+    "url": "https://www.amazon.jobs/en/jobs/3145033/robotics-hardware-development-engineer-intern-co-op-2026-robotics-mechanical-electrical-hardware-test-reliability-failure-analysis-operations-and-more",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-04-26T15:20:52.287783+00:00",
+    "date_discovered": "2026-09-23T15:40:34.862252+00:00"
+  },
+  {
+    "id": 13127657,
+    "company_display": "Amazon",
+    "title": "DFT Design Engineer I, AWS Machine Learning Acceleration",
+    "location": "Austin, Texas, USA",
+    "url": "https://www.amazon.jobs/en/jobs/3150211/dft-design-engineer-i-aws-machine-learning-acceleration",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": "2025-12-27T15:31:19.014616+00:00",
+    "date_discovered": "2026-09-23T15:40:35.005671+00:00"
+  },
+  {
+    "id": 13127807,
+    "company_display": "Amazon",
+    "title": "Junior Verification Engineer",
+    "location": "Haifa, ISR",
+    "url": "https://www.amazon.jobs/en/jobs/10542015/junior-verification-engineer",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-09-15T15:37:07.009479+00:00",
+    "date_discovered": "2026-09-23T15:40:35.571214+00:00"
+  },
+  {
+    "id": 13127868,
+    "company_display": "Amazon",
+    "title": "Post-Silicon Systems Validation Engineer I, Annapurna Labs",
+    "location": "Austin, Texas, USA",
+    "url": "https://www.amazon.jobs/en/jobs/10475661/post-silicon-systems-validation-engineer-i-annapurna-labs",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": "2026-07-25T15:37:52.930723+00:00",
+    "date_discovered": "2026-09-23T15:40:35.769520+00:00"
+  },
+  {
+    "id": 13157955,
+    "company_display": "Micron",
+    "title": "Intern Design Engineer - HIG HBM",
+    "location": "Richardson, TX",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Richardson-TX/Intern-Design-Engineer---HIG-HBM_JR112516",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-23T16:56:31.348248+00:00",
+    "date_discovered": "2026-09-23T17:04:08.790718+00:00"
+  },
+  {
+    "id": 13206985,
+    "company_display": "Qorvo",
+    "title": "Auto Embedded Software Intern",
+    "location": "Barcelona",
+    "url": "https://careers.qorvo.com/job/Barcelona-Auto-Embedded-Software-Intern-8034/1433111700/",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-09-23T19:09:57.142175+00:00"
+  },
+  {
+    "id": 13231674,
+    "company_display": "Keysight",
+    "title": "Analog and Mixed Signal IC Design Engineer Intern",
+    "location": "Santa Clara, California",
+    "url": "https://careers-keysight.icims.com/jobs/54221/login",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-23T20:11:00+00:00",
+    "date_discovered": "2026-09-23T20:15:49.352819+00:00"
+  },
+  {
+    "id": 13239213,
+    "company_display": "IBM",
+    "title": "Entry Level Compliance EMC HW Developer - Rochester, MN - 2027",
+    "location": "ROCHESTER, USA",
+    "url": "https://careers.ibm.com/careers/JobDetail?jobId=131991",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-09-23T20:40:59.244414+00:00"
+  },
+  {
+    "id": 13250336,
+    "company_display": "NVIDIA",
+    "title": "Security Architect - New College Grad 2026",
+    "location": "USA, CA, Santa Clara",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Security-Architect---New-College-Grad-2026_JR2026387-1",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": "2026-09-23T21:07:36.356442+00:00",
+    "date_discovered": "2026-09-23T21:11:39.795797+00:00"
+  },
+  {
+    "id": 13253500,
+    "company_display": "Skyworks Solutions",
+    "title": "Power Amplifier Design Co-Op (Jan-June 2027)",
+    "location": "Irvine, CA",
+    "url": "https://careers.skyworksinc.com/job/Irvine-Power-Amplifier-Design-Co-Op-%28Jan-June-2027%29-CA-92602/1433209900/",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-09-23T21:15:18.771078+00:00"
+  },
+  {
+    "id": 13257564,
+    "company_display": "AMD",
+    "title": "Summer 2027 PhD Applied AI Engineering Intern, Hardware AI",
+    "location": "Santa Clara, California",
+    "url": "https://campus-amd.icims.com/jobs/90997/login",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-23T21:30:00+00:00",
+    "date_discovered": "2026-09-23T21:34:56.552644+00:00"
+  },
+  {
+    "id": 13266799,
+    "company_display": "Schneider-Electric",
+    "title": "Electronics Hardware Engineer Co-Op",
+    "location": "Cedar Rapids, Iowa",
+    "url": "https://careers-se.icims.com/jobs/134457/login",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-23T00:00:00+00:00",
+    "date_discovered": "2026-09-23T21:49:08.028664+00:00"
+  },
+  {
+    "id": 13283699,
+    "company_display": "Analog Devices",
+    "title": "Analog Design Engineering Intern",
+    "location": "Canada, Toronto",
+    "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Canada-Toronto/Analog-Design-Engineering-Intern_R266614",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-09-23T22:40:12.144149+00:00",
+    "date_discovered": "2026-09-23T22:41:27.027904+00:00"
+  },
+  {
+    "id": 13293012,
+    "company_display": "Astranis",
+    "title": "FPGA Intern (Summer 2027)",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4704805006",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-23T23:05:05+00:00",
+    "date_discovered": "2026-09-23T23:07:04.385730+00:00"
+  },
+  {
+    "id": 13293013,
+    "company_display": "Astranis",
+    "title": "FPGA Intern (Winter 2027)",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4704803006",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-23T23:05:02+00:00",
+    "date_discovered": "2026-09-23T23:07:04.568175+00:00"
+  },
+  {
+    "id": 13293015,
+    "company_display": "Astranis",
+    "title": "Software Defined Radio Hardware Associate (Summer 2027)",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4715983006",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-23T22:57:50+00:00",
+    "date_discovered": "2026-09-23T23:07:04.718290+00:00"
+  },
+  {
+    "id": 13293016,
+    "company_display": "Astranis",
+    "title": "Software Defined Radio Hardware Associate (Winter 2027)",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4715985006",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": "2026-09-23T22:57:53+00:00",
+    "date_discovered": "2026-09-23T23:07:04.912932+00:00"
+  },
+  {
+    "id": 13293017,
+    "company_display": "Astranis",
+    "title": "Software Defined Radio Hardware Intern (Summer 2027)",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4716088006",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-23T22:52:17+00:00",
+    "date_discovered": "2026-09-23T23:07:04.958405+00:00"
+  },
+  {
+    "id": 13293018,
+    "company_display": "Astranis",
+    "title": "Software Defined Radio Hardware Intern (Winter 2027)",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4716087006",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-23T22:52:15+00:00",
+    "date_discovered": "2026-09-23T23:07:05.044698+00:00"
+  },
+  {
+    "id": 13293388,
+    "company_display": "Graphcore",
+    "title": "Firmware Engineering Intern",
+    "location": "Austin, Texas, USA",
+    "url": "https://job-boards.greenhouse.io/graphcore/jobs/8841894002",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-23T23:03:16+00:00",
+    "date_discovered": "2026-09-23T23:08:07.841989+00:00"
+  },
+  {
+    "id": 13294725,
+    "company_display": "Intel",
+    "title": "Technology Research 2D Transistor Engineer Intern",
+    "location": "USA, Oregon, Hillsboro",
+    "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Technology-Research-2D-Transistor-Engineer-Intern_JR0287001",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-23T23:08:43.209843+00:00",
+    "date_discovered": "2026-09-23T23:10:48.455961+00:00"
+  },
+  {
+    "id": 13305044,
+    "company_display": "Astranis",
+    "title": "FPGA Associate (Summer 2027)",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4704813006",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-23T23:07:34+00:00",
+    "date_discovered": "2026-09-23T23:38:21.825494+00:00"
+  },
+  {
+    "id": 13305045,
+    "company_display": "Astranis",
+    "title": "FPGA Associate (Winter 2027)",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4704811006",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": "2026-09-23T23:07:35+00:00",
+    "date_discovered": "2026-09-23T23:38:22.029217+00:00"
+  },
+  {
+    "id": 13316896,
+    "company_display": "Graphcore",
+    "title": "Hardware Platform Development Intern",
+    "location": "Austin, Texas, USA",
+    "url": "https://job-boards.greenhouse.io/graphcore/jobs/8841941002",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-23T23:46:25+00:00",
+    "date_discovered": "2026-09-24T00:09:06.673976+00:00"
+  },
+  {
+    "id": 13316898,
+    "company_display": "Graphcore",
+    "title": "Systems Engineering Intern",
+    "location": "Austin, Texas, USA",
+    "url": "https://job-boards.greenhouse.io/graphcore/jobs/8841978002",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-23T23:53:52+00:00",
+    "date_discovered": "2026-09-24T00:09:06.818246+00:00"
   }
 ]
