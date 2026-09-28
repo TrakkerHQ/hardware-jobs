@@ -1155,6 +1155,17 @@
     "date_discovered": "2026-09-13T18:30:13.506650+00:00"
   },
   {
+    "id": 9176815,
+    "company_display": "Raytheon",
+    "title": "Systems Engineering Intern- Onsite",
+    "location": "US-MA-TEWKSBURY-TB1 ~ 50 Apple Hill Dr ~ ASSABET BLDG",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Systems-Engineering-Intern--Onsite_01874255",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-14T05:00:13.166644+00:00",
+    "date_discovered": "2026-09-14T05:01:43.002753+00:00"
+  },
+  {
     "id": 9201556,
     "company_display": "Micron",
     "title": "Intern- NAND Probe Product Engineering",
@@ -2244,6 +2255,17 @@
     "date_discovered": "2026-09-17T17:07:25.229985+00:00"
   },
   {
+    "id": 10770283,
+    "company_display": "Danaher",
+    "title": "Hardware Engineering Intern",
+    "location": "Vista, California, USA",
+    "url": "https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Vista-California-United-States/Hardware-Engineering-Intern_R1315720/apply",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-17T00:00:00+00:00",
+    "date_discovered": "2026-09-17T17:20:26.614782+00:00"
+  },
+  {
     "id": 10772299,
     "company_display": "Marvell",
     "title": "SRAM Software Engineer Intern, BS - Summer 2027",
@@ -2530,17 +2552,6 @@
     "date_discovered": "2026-09-18T15:06:57.918742+00:00"
   },
   {
-    "id": 11204390,
-    "company_display": "Mksinst",
-    "title": "2027 Summer Electrical/Computer Engineering Co-op",
-    "location": "Rochester, NY",
-    "url": "https://mksinst.wd1.myworkdayjobs.com/en-US/MKSCareersUniversity/job/Rochester-NY/XMLNAME-2027-Summer-Electrical-Computer-Engineering-Co-op_R20646",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-18T15:16:48.161804+00:00",
-    "date_discovered": "2026-09-18T15:17:33.682579+00:00"
-  },
-  {
     "id": 11208450,
     "company_display": "Micron",
     "title": "Intern - ASIC Digital Design",
@@ -2682,17 +2693,6 @@
     "country": "us",
     "updated_at": null,
     "date_discovered": "2026-09-18T18:45:20.682897+00:00"
-  },
-  {
-    "id": 11364360,
-    "company_display": "Illinois Tool Works",
-    "title": "Software Engineering Intern",
-    "location": "Appleton, Wisconsin, USA",
-    "url": "https://itw.wd5.myworkdayjobs.com/External/job/Appleton-1635-W-Spencer/Software-Engineering-Intern_JR10122/apply",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-18T00:00:00+00:00",
-    "date_discovered": "2026-09-18T21:17:24.783697+00:00"
   },
   {
     "id": 11370668,
@@ -3080,17 +3080,6 @@
     "date_discovered": "2026-09-22T01:41:24.152944+00:00"
   },
   {
-    "id": 12397301,
-    "company_display": "Motorola Solutions",
-    "title": "Graduate Engineer",
-    "location": "Melbourne, Australia",
-    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Melbourne-Australia/Graduate-Engineer_R68897",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": "2026-09-15T02:14:57.471712+00:00",
-    "date_discovered": "2026-09-22T02:15:05.892310+00:00"
-  },
-  {
     "id": 12417506,
     "company_display": "Cisco",
     "title": "Software Engineer Embedded Systems I (Intern) \u2013 United States",
@@ -3100,6 +3089,17 @@
     "country": "us",
     "updated_at": "2026-09-22T03:00:26.298753+00:00",
     "date_discovered": "2026-09-22T03:02:00.388928+00:00"
+  },
+  {
+    "id": 12440716,
+    "company_display": "Cisco",
+    "title": "Software Engineer Embedded Systems I (Intern) \u2013 United States",
+    "location": "San Jose, California, USA",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-I--Intern----United-States_2025926/apply",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-21T00:00:00+00:00",
+    "date_discovered": "2026-09-22T04:13:21.466801+00:00"
   },
   {
     "id": 12457808,
@@ -4618,5 +4618,346 @@
     "country": "international",
     "updated_at": "2026-09-25T19:50:48.636227+00:00",
     "date_discovered": "2026-09-26T19:50:49.134095+00:00"
+  },
+  {
+    "id": 14829870,
+    "company_display": "Motorola Solutions",
+    "title": "2027 Intern - SoC Digital Engineer",
+    "location": "Plantation, FL",
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Plantation-FL/XMLNAME-2027-Intern---SoC-Digital-Engineer_R69149",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-24T22:15:23.135209+00:00",
+    "date_discovered": "2026-09-27T22:20:24.271452+00:00"
+  },
+  {
+    "id": 14829873,
+    "company_display": "Motorola Solutions",
+    "title": "PCB Design Engineer (Fresh Graduate)",
+    "location": "Penang, Malaysia",
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Penang-Malaysia/PCB-Design-Engineer--Fresh-Graduate-_R68746",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-09-24T22:15:23.147569+00:00",
+    "date_discovered": "2026-09-27T22:20:24.282870+00:00"
+  },
+  {
+    "id": 14829881,
+    "company_display": "Motorola Solutions",
+    "title": "DSP (Digital Signal Processing) Software Engineering Intern - Summer 2027",
+    "location": "Plantation, FL",
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Plantation-FL/DSP--Digital-Signal-Processing--Software-Engineering-Intern---Summer-2027_R68734",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-18T22:15:23.257966+00:00",
+    "date_discovered": "2026-09-27T22:20:24.320817+00:00"
+  },
+  {
+    "id": 14829892,
+    "company_display": "Motorola Solutions",
+    "title": "FPGA Design Engineering Intern - Summer 2027",
+    "location": "Schaumburg, IL",
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Schaumburg-IL/FPGA-Design-Engineering-Intern---Summer-2027_R68401",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-09T22:15:23.330862+00:00",
+    "date_discovered": "2026-09-27T22:20:24.364702+00:00"
+  },
+  {
+    "id": 14829895,
+    "company_display": "Motorola Solutions",
+    "title": "Test Engineering Internship 2027",
+    "location": "Greater Chicago Area",
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Greater-Chicago-Area/Test-Engineering-Internship-2027_R68059",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-04T22:15:23.667494+00:00",
+    "date_discovered": "2026-09-27T22:20:24.375291+00:00"
+  },
+  {
+    "id": 14829905,
+    "company_display": "Motorola Solutions",
+    "title": "Associate Research and Development (R&D) Test Engineer",
+    "location": "Los Angeles, CA, More...",
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Los-Angeles-CA/Associate-Research-and-Development--R-D--Test-Engineer_R64786-1",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": "2026-08-28T22:15:24.879998+00:00",
+    "date_discovered": "2026-09-27T22:20:24.412992+00:00"
+  },
+  {
+    "id": 14829907,
+    "company_display": "Motorola Solutions",
+    "title": "Software Engineer Embedded (Fresh Graduate)",
+    "location": "Penang, Malaysia",
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Penang-Malaysia/Software-Engineer-Embedded--Fresh-Graduate-_R65270",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-08-28T22:15:24.971383+00:00",
+    "date_discovered": "2026-09-27T22:20:24.420808+00:00"
+  },
+  {
+    "id": 14829911,
+    "company_display": "Motorola Solutions",
+    "title": "Intern - Embedded Software, System, and Test Engineer - 2026",
+    "location": "Irvine, CA",
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Irvine-CA/Intern---Embedded-Software--System--and-Test-Engineer---2026_R62372",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-08-28T22:15:25.047701+00:00",
+    "date_discovered": "2026-09-27T22:20:24.433859+00:00"
+  },
+  {
+    "id": 14829913,
+    "company_display": "Motorola Solutions",
+    "title": "Software Engineer (C/C++) - Fresh Graduate",
+    "location": "Penang, Malaysia",
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Penang-Malaysia/Software-Engineer--C-C------Fresh-Graduate_R62735",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-08-28T22:15:25.077742+00:00",
+    "date_discovered": "2026-09-27T22:20:24.441177+00:00"
+  },
+  {
+    "id": 14830026,
+    "company_display": "Semtech",
+    "title": "Validation Engineering Intern",
+    "location": "CAN - Burlington, ON",
+    "url": "https://semtech.wd1.myworkdayjobs.com/en-US/SemtechCareers/job/CAN---Burlington-ON/Validation-Engineering-Intern_REQ3628",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-09-24T22:15:49.167863+00:00",
+    "date_discovered": "2026-09-27T22:22:17.678538+00:00"
+  },
+  {
+    "id": 14830027,
+    "company_display": "Semtech",
+    "title": "Analog Design Engineer Intern",
+    "location": "CAN - Burlington, ON",
+    "url": "https://semtech.wd1.myworkdayjobs.com/en-US/SemtechCareers/job/CAN---Burlington-ON/Analog-Design-Engineer-Intern_REQ3622",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-09-24T22:15:49.168418+00:00",
+    "date_discovered": "2026-09-27T22:22:17.683163+00:00"
+  },
+  {
+    "id": 14830029,
+    "company_display": "Semtech",
+    "title": "Analog Design Engineer Intern",
+    "location": "CAN - Calgary, AB",
+    "url": "https://semtech.wd1.myworkdayjobs.com/en-US/SemtechCareers/job/CAN---Calgary-AB/Analog-Design-Engineer-Intern_REQ3624",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-09-24T22:15:49.168592+00:00",
+    "date_discovered": "2026-09-27T22:22:17.695176+00:00"
+  },
+  {
+    "id": 14830030,
+    "company_display": "Semtech",
+    "title": "Analog Design Intern",
+    "location": "CAN - Ottawa, ON",
+    "url": "https://semtech.wd1.myworkdayjobs.com/en-US/SemtechCareers/job/CAN---Ottawa-ON/Analog-Design-Intern_REQ3625",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-09-24T22:15:49.168788+00:00",
+    "date_discovered": "2026-09-27T22:22:17.698492+00:00"
+  },
+  {
+    "id": 14830031,
+    "company_display": "Semtech",
+    "title": "Digital IC Design Engineering Intern",
+    "location": "CAN - Ottawa, ON",
+    "url": "https://semtech.wd1.myworkdayjobs.com/en-US/SemtechCareers/job/CAN---Ottawa-ON/Digital-IC-Design-Engineering-Intern_REQ3620",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-09-24T22:15:49.169085+00:00",
+    "date_discovered": "2026-09-27T22:22:17.702571+00:00"
+  },
+  {
+    "id": 14830032,
+    "company_display": "Semtech",
+    "title": "Digital IC Design Engineering Intern",
+    "location": "CAN - Burlington, ON",
+    "url": "https://semtech.wd1.myworkdayjobs.com/en-US/SemtechCareers/job/CAN---Burlington-ON/Digital-IC-Design-Engineering-Intern_REQ3621",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-09-24T22:15:49.169179+00:00",
+    "date_discovered": "2026-09-27T22:22:17.706654+00:00"
+  },
+  {
+    "id": 14830034,
+    "company_display": "Semtech",
+    "title": "Applications Engineering Intern",
+    "location": "CAN - Burlington, ON",
+    "url": "https://semtech.wd1.myworkdayjobs.com/en-US/SemtechCareers/job/CAN---Burlington-ON/Applications-Engineering-Intern_REQ3616",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-09-24T22:15:49.169357+00:00",
+    "date_discovered": "2026-09-27T22:22:17.713792+00:00"
+  },
+  {
+    "id": 14830035,
+    "company_display": "Semtech",
+    "title": "Firmware Design Intern",
+    "location": "CAN - Ottawa, ON",
+    "url": "https://semtech.wd1.myworkdayjobs.com/en-US/SemtechCareers/job/CAN---Ottawa-ON/Firmware-Design-Intern_REQ3617",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-09-24T22:15:49.169560+00:00",
+    "date_discovered": "2026-09-27T22:22:17.716962+00:00"
+  },
+  {
+    "id": 14830036,
+    "company_display": "Semtech",
+    "title": "IC Packaging Design Intern",
+    "location": "CAN - Ottawa, ON",
+    "url": "https://semtech.wd1.myworkdayjobs.com/en-US/SemtechCareers/job/CAN---Ottawa-ON/IC-Packaging-Design-Intern_REQ3619",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-09-24T22:15:49.169816+00:00",
+    "date_discovered": "2026-09-27T22:22:17.720111+00:00"
+  },
+  {
+    "id": 14830037,
+    "company_display": "Semtech",
+    "title": "Validation Engineering Intern",
+    "location": "CAN - Ottawa, ON",
+    "url": "https://semtech.wd1.myworkdayjobs.com/en-US/SemtechCareers/job/CAN---Ottawa-ON/Validation-Engineering-Intern_REQ3618",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-09-24T22:15:49.169905+00:00",
+    "date_discovered": "2026-09-27T22:22:17.724051+00:00"
+  },
+  {
+    "id": 14830130,
+    "company_display": "Insulet",
+    "title": "Co-op, Systems Engineering - Design Verification: January - June 2027 (Onsite)",
+    "location": "Acton, Massachusetts",
+    "url": "https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/Acton-Massachusetts/Co-op--Systems-Engineering---Design-Verification--January---June-2027--Onsite-_REQ-2026-18144-1",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-17T22:16:06.580822+00:00",
+    "date_discovered": "2026-09-27T22:24:00.811898+00:00"
+  },
+  {
+    "id": 14830131,
+    "company_display": "Insulet",
+    "title": "Co-op, Embedded Software Test Engineering: January - June 2027 (Onsite)",
+    "location": "Acton, Massachusetts",
+    "url": "https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/Acton-Massachusetts/Co-op--Embedded-Software-Test-Engineering--January---June-2027--Onsite-_REQ-2026-18012",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-16T22:16:06.614535+00:00",
+    "date_discovered": "2026-09-27T22:24:00.815480+00:00"
+  },
+  {
+    "id": 14830137,
+    "company_display": "Insulet",
+    "title": "Co-op, Embedded Software Engineering: January-June 2027 (Onsite)",
+    "location": "Acton, Massachusetts",
+    "url": "https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/Acton-Massachusetts/Co-op--Embedded-Software-Engineering--January-June-2027--Onsite-_REQ-2026-17966",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-15T22:16:06.635979+00:00",
+    "date_discovered": "2026-09-27T22:24:00.831096+00:00"
+  },
+  {
+    "id": 14830306,
+    "company_display": "Sifive",
+    "title": "System Validation Engineer (New Grads)",
+    "location": "Hsinchu, Taiwan; Bengaluru, Karnataka, India",
+    "url": "https://sifive.wd1.myworkdayjobs.com/en-US/sifivecareers/job/Hsinchu-Taiwan/System-Validation-Engineer--New-Grads-_R-101316",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-09-14T00:00:00+00:00",
+    "date_discovered": "2026-09-27T22:25:39.048711+00:00"
+  },
+  {
+    "id": 14830308,
+    "company_display": "Sifive",
+    "title": "Intern - Design Verification Infrastructure Engineer - Platform",
+    "location": "Santa Clara, California, United States; Austin, Texas, United States; Berkeley, United States; Boston, Massachusetts, USA",
+    "url": "https://sifive.wd1.myworkdayjobs.com/en-US/sifivecareers/job/Santa-Clara-California-United-States/Intern---Design-Verification-Infrastructure-Engineer---Platform_R-101292",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-05-23T00:00:00+00:00",
+    "date_discovered": "2026-09-27T22:25:39.057263+00:00"
+  },
+  {
+    "id": 14830310,
+    "company_display": "Globalfoundries",
+    "title": "Design Application Engineering Intern (Summer 2027)",
+    "location": "USA - California - Santa Clara",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---California---Santa-Clara/Design-Application-Engineering-Intern--Summer-2027-_JR-2604221",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-25T22:16:26.302818+00:00",
+    "date_discovered": "2026-09-27T22:25:43.896133+00:00"
+  },
+  {
+    "id": 14830311,
+    "company_display": "Globalfoundries",
+    "title": "Design Application Engineer (2027 New College Grad)",
+    "location": "USA - California - Santa Clara",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---California---Santa-Clara/Design-Application-Engineer--2027-New-College-Grad-_JR-2604190",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": "2026-09-25T22:16:26.410590+00:00",
+    "date_discovered": "2026-09-27T22:25:43.903208+00:00"
+  },
+  {
+    "id": 14830717,
+    "company_display": "Viavisolutions",
+    "title": "Hardware Engineering Co-Op",
+    "location": "Germantown, MD USA",
+    "url": "https://viavisolutions.wd1.myworkdayjobs.com/en-US/careers/job/Germantown-MD-USA/Hardware-Engineering-Co-Op_260005139-2",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-14T22:17:12.856498+00:00",
+    "date_discovered": "2026-09-27T22:29:12.466726+00:00"
+  },
+  {
+    "id": 14830933,
+    "company_display": "Irhythmtech",
+    "title": "Firmware Quality Assurance Engineer Co-Op Intern Full Time January-JuneEngineer",
+    "location": "San Francisco, CA",
+    "url": "https://irhythmtech.wd5.myworkdayjobs.com/en-US/iRhythm/job/San-Francisco-CA/Firmware-Quality-Assurance-Engineer-Co-Op-Intern-Full-Time-January-JuneEngineer_JR1791",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-24T22:17:23.559658+00:00",
+    "date_discovered": "2026-09-27T22:29:13.181201+00:00"
+  },
+  {
+    "id": 14830934,
+    "company_display": "Irhythmtech",
+    "title": "Embedded SDET Co-Op Full Time Intern January-June 2027",
+    "location": "San Francisco, CA",
+    "url": "https://irhythmtech.wd5.myworkdayjobs.com/en-US/iRhythm/job/San-Francisco-CA/Embedded-SDET-Co-Op-Full-Time-Intern-January-June-2027_JR1758",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-24T22:17:23.561620+00:00",
+    "date_discovered": "2026-09-27T22:29:13.184806+00:00"
+  },
+  {
+    "id": 14831400,
+    "company_display": "Ciena",
+    "title": "Hardware (PCBA) Design and Verification Intern (Winter 2027 - 4 months)",
+    "location": "Canada- Ottawa- 383 Terry Fox- Bldg C",
+    "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Canada--Ottawa--383-Terry-Fox--Bldg-C/Hardware--PCBA--Design-and-Verification-Intern--Winter-2027---4-months-_R031752",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-09-25T22:18:13.313607+00:00",
+    "date_discovered": "2026-09-27T22:29:14.839825+00:00"
+  },
+  {
+    "id": 14831401,
+    "company_display": "Ciena",
+    "title": "ASIC Processor Complex Engineering Co-op (January 2027 - 4 months)",
+    "location": "Ottawa",
+    "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/ASIC-Processor-Complex-Engineering-Co-op--January-2027---4-months-_R031744",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-09-25T22:18:13.314038+00:00",
+    "date_discovered": "2026-09-27T22:29:14.845564+00:00"
   }
 ]
