@@ -4763,17 +4763,6 @@
     "date_discovered": "2026-09-28T03:06:09.128408+00:00"
   },
   {
-    "id": 14891913,
-    "company_display": "Ericsson",
-    "title": "Entry level: Power Designer",
-    "location": "Stockholm, Sweden",
-    "url": "https://ericsson.eightfold.ai/careers/job/563121777212635",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-09-28T03:07:30.096340+00:00"
-  },
-  {
     "id": 14892545,
     "company_display": "Raytheon",
     "title": "2027 Spring-Summer Co-op Systems Engineering (Onsite)",
@@ -5003,17 +4992,6 @@
     "country": "international",
     "updated_at": "2026-09-28T20:49:51.460455+00:00",
     "date_discovered": "2026-09-28T20:49:52.077916+00:00"
-  },
-  {
-    "id": 15357620,
-    "company_display": "Texas Instruments",
-    "title": "Digital Design Verification Engineering Intern",
-    "location": "Santa Clara, CA, USA",
-    "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016380",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-28T00:00:00+00:00",
-    "date_discovered": "2026-09-28T21:08:52.703255+00:00"
   },
   {
     "id": 15380869,
@@ -5368,17 +5346,6 @@
     "date_discovered": "2026-09-29T17:29:41.712541+00:00"
   },
   {
-    "id": 15935903,
-    "company_display": "Cisco",
-    "title": "Firmware Engineer II (Co-op) - United States",
-    "location": "Maynard, Massachusetts, USA",
-    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Maynard-Massachusetts-US/Firmware-Engineer-II--Co-op----United-States_2026913",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-29T17:51:46.713551+00:00",
-    "date_discovered": "2026-09-29T17:52:14.958777+00:00"
-  },
-  {
     "id": 15939432,
     "company_display": "IBM",
     "title": "Quantum Hardware Test Engineering Intern 2027",
@@ -5388,6 +5355,17 @@
     "country": "us",
     "updated_at": null,
     "date_discovered": "2026-09-29T17:56:46.043363+00:00"
+  },
+  {
+    "id": 15960873,
+    "company_display": "Cisco",
+    "title": "Firmware Engineer II (Co-op) - United States",
+    "location": "Maynard, Massachusetts, USA",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Maynard-Massachusetts-US/Firmware-Engineer-II--Co-op----United-States_2026913/apply",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-29T00:00:00+00:00",
+    "date_discovered": "2026-09-29T18:29:32.558649+00:00"
   },
   {
     "id": 15960874,
@@ -5797,15 +5775,15 @@
     "date_discovered": "2026-09-30T18:17:32.132396+00:00"
   },
   {
-    "id": 16638766,
+    "id": 16638768,
     "company_display": "BAE Systems",
-    "title": "Spacecraft Systems Engineering Intern, Summer 2027",
+    "title": "Embedded Software Engineering Intern, Summer 2027",
     "location": "Broomfield, Colorado, USA",
-    "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25771&siteid=5403&jobid=304368",
+    "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25771&siteid=5403&jobid=304366",
     "skill_level": "intern",
     "country": "us",
     "updated_at": "2026-09-30T18:02:32.624000+00:00",
-    "date_discovered": "2026-09-30T18:17:32.142175+00:00"
+    "date_discovered": "2026-09-30T18:17:32.147608+00:00"
   },
   {
     "id": 16641658,
@@ -6138,17 +6116,6 @@
     "date_discovered": "2026-10-01T14:19:15.293895+00:00"
   },
   {
-    "id": 17236975,
-    "company_display": "Cisco",
-    "title": "Hardware Engineer II (Co-op) - United States",
-    "location": "San Jose, California, USA",
-    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer-II--Co-op----United-States_2025375",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-01T15:22:30.877062+00:00",
-    "date_discovered": "2026-10-01T15:22:39.756393+00:00"
-  },
-  {
     "id": 17236976,
     "company_display": "Cisco",
     "title": "Hardware Engineer I (Co-op) - United States",
@@ -6180,6 +6147,17 @@
     "country": "international",
     "updated_at": null,
     "date_discovered": "2026-10-01T15:49:56.115736+00:00"
+  },
+  {
+    "id": 17271007,
+    "company_display": "Cisco",
+    "title": "Hardware Engineer II (Co-op) - United States",
+    "location": "San Jose, California, USA",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer-II--Co-op----United-States_2025375/apply",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-01T00:00:00+00:00",
+    "date_discovered": "2026-10-01T16:21:49.097962+00:00"
   },
   {
     "id": 17310599,
@@ -6512,14 +6490,58 @@
     "date_discovered": "2026-10-03T01:43:10.516692+00:00"
   },
   {
-    "id": 18384934,
-    "company_display": "Amazon",
-    "title": "Software Dev Engineer I, Annapurna Labs",
-    "location": "Haifa, ISR",
-    "url": "https://www.amazon.jobs/en/jobs/10568459/software-dev-engineer-i-annapurna-labs",
+    "id": 18386590,
+    "company_display": "Ericsson",
+    "title": "Entry Level: Power Designer",
+    "location": "G\u00f6teborg, V\u00e4stra G\u00f6taland, Sweden",
+    "url": "https://ericsson.eightfold.ai/careers/job/563121777213990",
     "skill_level": "entry",
     "country": "international",
     "updated_at": null,
-    "date_discovered": "2026-10-03T15:13:12.809431+00:00"
+    "date_discovered": "2026-10-04T10:38:01.410410+00:00"
+  },
+  {
+    "id": 18386701,
+    "company_display": "Marvell",
+    "title": "Digital IC Design- Intern",
+    "location": "Yokneam",
+    "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Yokneam/Digital-IC-Design--Intern_2604489",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-04T10:42:14.138046+00:00",
+    "date_discovered": "2026-10-04T10:42:15.029175+00:00"
+  },
+  {
+    "id": 18386915,
+    "company_display": "Analog Devices",
+    "title": "Associate Engineer, Test Engineering - Product Development",
+    "location": "Philippines, Cavite (jp)",
+    "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Philippines-Cavite-jp/Associate-Engineer--Test-Engineering---Product-Development_R265161",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-10-04T13:38:45.573022+00:00",
+    "date_discovered": "2026-10-04T13:38:48.956986+00:00"
+  },
+  {
+    "id": 18387821,
+    "company_display": "Micron",
+    "title": "Intern - Design Engineer, HBM",
+    "location": "Richardson, TX",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Richardson-TX/Intern---Design-Engineer--HBM_JR111821",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-05T00:02:52.988375+00:00",
+    "date_discovered": "2026-10-05T00:06:35.999953+00:00"
+  },
+  {
+    "id": 18387822,
+    "company_display": "Micron",
+    "title": "New College Grad - Semiconductor Design Engineer, DRAM Products Group",
+    "location": "Boise, ID - Main Site",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/New-College-Grad---Semiconductor-Design-Engineer--DRAM-Products-Group_JR114119",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": "2026-10-05T00:02:53.042135+00:00",
+    "date_discovered": "2026-10-05T00:06:36.020956+00:00"
   }
 ]
