@@ -1,104 +1,5 @@
 [
   {
-    "id": 10007424,
-    "company_display": "Analog Devices",
-    "title": "Associate Engineer, Product Engineering (Prod Dev)",
-    "location": "Philippines, Cavite, GTC",
-    "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Philippines-Cavite-GTC/Associate-Engineer--Product-Engineering--Prod-Dev-_R265702",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": "2026-09-16T00:36:27.929799+00:00",
-    "date_discovered": "2026-09-16T00:37:43.771363+00:00"
-  },
-  {
-    "id": 10096772,
-    "company_display": "NVIDIA",
-    "title": "Silicon Software Engineer - System and AI (RDSS Intern)",
-    "location": "2 Locations",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Silicon-Software-Engineer---System-and-AI--RDSS-Intern-_JR2025538",
-    "skill_level": "intern",
-    "country": null,
-    "updated_at": "2026-09-16T05:00:12.155946+00:00",
-    "date_discovered": "2026-09-16T05:02:01.788043+00:00"
-  },
-  {
-    "id": 10096785,
-    "company_display": "NVIDIA",
-    "title": "Firmware Application Engineer (RDSS Intern)",
-    "location": "Taiwan, Taipei",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Firmware-Application-Engineer--RDSS-Intern-_JR2024884",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-16T05:00:12.190044+00:00",
-    "date_discovered": "2026-09-16T05:02:02.167181+00:00"
-  },
-  {
-    "id": 10216642,
-    "company_display": "Jabil",
-    "title": "Server Platform Intern",
-    "location": "Austin, TX",
-    "url": "https://jabil.wd5.myworkdayjobs.com/en-US/Jabil_Careers/job/Austin-TX/Server-Platform-Intern_J2464685",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-16T14:11:43.504453+00:00",
-    "date_discovered": "2026-09-16T14:13:11.437771+00:00"
-  },
-  {
-    "id": 10242115,
-    "company_display": "Apple",
-    "title": "Instrument Hardware Develop Intern",
-    "location": "China",
-    "url": "https://jobs.apple.com/en-us/details/200683720/instrument-hardware-develop-intern?team=HRDWR",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-16T14:56:28.481000+00:00",
-    "date_discovered": "2026-09-16T15:13:51.257433+00:00"
-  },
-  {
-    "id": 10251662,
-    "company_display": "Cisco",
-    "title": "Hardware Engineer I (Intern) - United States",
-    "location": "3 Locations",
-    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer-I--Intern----United-States_2024535-1",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-16T15:35:19.620867+00:00",
-    "date_discovered": "2026-09-16T15:38:08.172495+00:00"
-  },
-  {
-    "id": 10277301,
-    "company_display": "AMD",
-    "title": "Short Term 2027 Technical Marketing - Performance Analysis Intern/Co-Op",
-    "location": "MARKHAM, Ontario",
-    "url": "https://campuscanada-amd.icims.com/jobs/91953/login",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-16T16:01:00+00:00",
-    "date_discovered": "2026-09-16T16:37:59.110414+00:00"
-  },
-  {
-    "id": 10285897,
-    "company_display": "Vishay",
-    "title": "Associate RF Engineer",
-    "location": "Attleboro, MA",
-    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Attleboro-MA/Junior-RF-Engineer_JR-19112",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": "2026-09-16T16:47:08.034843+00:00",
-    "date_discovered": "2026-09-16T16:48:13.295942+00:00"
-  },
-  {
-    "id": 10364197,
-    "company_display": "Raytheon",
-    "title": "RF/Microwave Engineering Intern (Summer 2027)",
-    "location": "US-MA-ANDOVER-AR1 ~ 358 Lowell St ~ AR1 DUKES BLDG",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MA-ANDOVER-AR1--358-Lowell-St--AR1-DUKES-BLDG/RF-Microwave-Engineering-Intern--Summer-2027-_01875478",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-16T20:05:09.422403+00:00",
-    "date_discovered": "2026-09-16T20:06:30.542752+00:00"
-  },
-  {
     "id": 10648770,
     "company_display": "General Dynamics",
     "title": "Junior System Integration Qualification & Verification Engineer",
@@ -185,17 +86,6 @@
     "country": "us",
     "updated_at": "2026-09-17T17:05:12.428828+00:00",
     "date_discovered": "2026-09-17T17:07:25.229985+00:00"
-  },
-  {
-    "id": 10770283,
-    "company_display": "Danaher",
-    "title": "Hardware Engineering Intern",
-    "location": "Vista, California, USA",
-    "url": "https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Vista-California-United-States/Hardware-Engineering-Intern_R1315720/apply",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-17T00:00:00+00:00",
-    "date_discovered": "2026-09-17T17:20:26.614782+00:00"
   },
   {
     "id": 10772299,
@@ -350,39 +240,6 @@
     "country": "international",
     "updated_at": "2026-09-18T11:01:01.399050+00:00",
     "date_discovered": "2026-09-18T11:02:28.117687+00:00"
-  },
-  {
-    "id": 11136766,
-    "company_display": "General Dynamics",
-    "title": "Embedded Software Engineer Intern",
-    "location": "Boise, ID, USA",
-    "url": "https://www.gd.com/careers/embedded-software-engineer-intern-boise-id-us-2026-75013-gdms-opportunity",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-17T00:00:00+00:00",
-    "date_discovered": "2026-09-18T12:45:03.087040+00:00"
-  },
-  {
-    "id": 11136967,
-    "company_display": "General Dynamics",
-    "title": "Embedded Software Engineer Entry Level",
-    "location": "Boise, ID, USA",
-    "url": "https://www.gd.com/careers/embedded-software-engineer-entry-level-boise-id-us-2026-75011-gdms-opportunity",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": "2026-09-17T00:00:00+00:00",
-    "date_discovered": "2026-09-18T12:45:11.776621+00:00"
-  },
-  {
-    "id": 11137148,
-    "company_display": "General Dynamics",
-    "title": "ASIC FPGA Engineer Entry Level",
-    "location": "Boise, ID, USA",
-    "url": "https://www.gd.com/careers/asic-fpga-engineer-entry-level-boise-id-us-2026-75010-gdms-opportunity",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": "2026-09-17T00:00:00+00:00",
-    "date_discovered": "2026-09-18T12:45:18.187959+00:00"
   },
   {
     "id": 11164997,
@@ -1496,39 +1353,6 @@
     "date_discovered": "2026-09-23T15:19:24.832186+00:00"
   },
   {
-    "id": 13119898,
-    "company_display": "Cisco",
-    "title": "Software Developer Embedded Systems I (Co-op) - Canada",
-    "location": "Kanata, Ontario, Canada; Saint-Laurent, Quebec, Canada; Calgary, Alberta, Canada; Toronto, Canada; Montreal, Canada; Ottawa, Canada",
-    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Kanata-Ontario-Canada/Software-Developer-Embedded-Systems-I--Co-op----Canada_2024111",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-16T15:23:20.204050+00:00",
-    "date_discovered": "2026-09-23T15:25:57.773100+00:00"
-  },
-  {
-    "id": 13119899,
-    "company_display": "Cisco",
-    "title": "Hardware Engineer I (Full Time) - United States",
-    "location": "San Jose, California, US; Austin, Texas, US; RTP, North Carolina, US; Carlsbad, USA",
-    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer-I--Full-Time----United-States_2024649",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": "2026-09-16T15:23:20.258093+00:00",
-    "date_discovered": "2026-09-23T15:25:57.794857+00:00"
-  },
-  {
-    "id": 13122097,
-    "company_display": "NVIDIA",
-    "title": "Server Firmware Developer (RDSS Intern)",
-    "location": "Taiwan, Taipei",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Server-Firmware-Developer--RDSS-Intern-_JR2025558",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-16T15:26:20.545865+00:00",
-    "date_discovered": "2026-09-23T15:30:20.106373+00:00"
-  },
-  {
     "id": 13125243,
     "company_display": "Qualcomm",
     "title": "2027 Campus Hire Associate Engineer HW",
@@ -2308,17 +2132,6 @@
     "country": "us",
     "updated_at": "2026-09-17T22:16:06.580822+00:00",
     "date_discovered": "2026-09-27T22:24:00.811898+00:00"
-  },
-  {
-    "id": 14830131,
-    "company_display": "Insulet",
-    "title": "Co-op, Embedded Software Test Engineering: January - June 2027 (Onsite)",
-    "location": "Acton, Massachusetts",
-    "url": "https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/Acton-Massachusetts/Co-op--Embedded-Software-Test-Engineering--January---June-2027--Onsite-_REQ-2026-18012",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-16T22:16:06.614535+00:00",
-    "date_discovered": "2026-09-27T22:24:00.815480+00:00"
   },
   {
     "id": 14830933,
@@ -5885,17 +5698,6 @@
     "date_discovered": "2026-10-13T18:11:46.959944+00:00"
   },
   {
-    "id": 18435455,
-    "company_display": "Boeing",
-    "title": "Entry Level ASIC/FPGA Design Verification Engineer",
-    "location": "USA - El Segundo, CA",
-    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Entry-Level-ASIC-FPGA-Design-Verification-Engineer_JR2026524660-2",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": "2026-10-13T18:11:48.278787+00:00",
-    "date_discovered": "2026-10-13T18:13:22.594163+00:00"
-  },
-  {
     "id": 18435637,
     "company_display": "Northrop Grumman",
     "title": "2027 Computer Engineer Intern - Manhattan Beach CA",
@@ -6061,17 +5863,6 @@
     "date_discovered": "2026-10-13T23:41:35.611839+00:00"
   },
   {
-    "id": 18437261,
-    "company_display": "Raytheon",
-    "title": "RF Systems Engineer Intern (Onsite)",
-    "location": "US-TX-MCKINNEY-513WD ~ 2501 W University Dr ~ WING D BLDG",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/RF-Systems-Engineer-Intern--Onsite-_01880592",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-13T23:39:35.866308+00:00",
-    "date_discovered": "2026-10-13T23:42:47.961041+00:00"
-  },
-  {
     "id": 18437388,
     "company_display": "Amazon",
     "title": "Hardware Development Engineer Intern, Summer 2027",
@@ -6125,39 +5916,6 @@
     "country": "international",
     "updated_at": "2026-10-14T02:39:07.108106+00:00",
     "date_discovered": "2026-10-14T02:41:25.019927+00:00"
-  },
-  {
-    "id": 18438482,
-    "company_display": "Northrop Grumman",
-    "title": "2027 Associate H/W Electronics Engineer \u2013 Annapolis MD",
-    "location": "United States-Maryland-Annapolis",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis/XMLNAME-2027-Associate-H-W-Electronics-Engineer---Annapolis-MD_R10254896",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": "2026-10-14T04:02:59.404056+00:00",
-    "date_discovered": "2026-10-14T04:06:31.045557+00:00"
-  },
-  {
-    "id": 18438483,
-    "company_display": "Northrop Grumman",
-    "title": "2027 Associate S/W Embedded Engineer \u2013 Annapolis MD",
-    "location": "United States-Maryland-Annapolis",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis/XMLNAME-2027-Associate-S-W-Embedded-Engineer---Annapolis-MD_R10254909",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": "2026-10-14T04:02:59.409783+00:00",
-    "date_discovered": "2026-10-14T04:06:31.065986+00:00"
-  },
-  {
-    "id": 18438487,
-    "company_display": "Northrop Grumman",
-    "title": "2027 S/W Embedded Engineering Intern \u2013 Annapolis MD",
-    "location": "United States-Maryland-Annapolis",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis/XMLNAME-2027-S-W-Embedded-Engineering-Intern---Annapolis-MD_R10254697",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-14T04:03:01.040564+00:00",
-    "date_discovered": "2026-10-14T04:06:31.134032+00:00"
   },
   {
     "id": 18438575,
@@ -6719,5 +6477,16 @@
     "country": "us",
     "updated_at": null,
     "date_discovered": "2026-10-16T21:41:33.061885+00:00"
+  },
+  {
+    "id": 18458162,
+    "company_display": "Amazon",
+    "title": "Data Center Infrastructure Engineering Intern, Colocation Regional Engineering",
+    "location": "SGP",
+    "url": "https://www.amazon.jobs/en/jobs/10507775/data-center-infrastructure-engineering-intern-colocation-regional-engineering",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-10-17T10:48:29.072613+00:00"
   }
 ]
