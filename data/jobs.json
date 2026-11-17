@@ -1,104 +1,5 @@
 [
   {
-    "id": 18451308,
-    "company_display": "Together AI",
-    "title": "Hardware Security Engineer Intern (Summer 2027)",
-    "location": "San Francisco",
-    "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238469007",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-16T04:33:08+00:00",
-    "date_discovered": "2026-10-16T05:00:49.576035+00:00"
-  },
-  {
-    "id": 18451309,
-    "company_display": "Together AI",
-    "title": "Hardware Security Engineer, New Grad (2027)",
-    "location": "San Francisco",
-    "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238471007",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": "2026-10-16T04:32:37+00:00",
-    "date_discovered": "2026-10-16T05:00:49.596042+00:00"
-  },
-  {
-    "id": 18453442,
-    "company_display": "Ciena",
-    "title": "Analog and Mixed-Signal Modelling Architect (Masters or PhD New Grad)",
-    "location": "Ottawa",
-    "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Analog-and-Mixed-Signal-Modelling-Architect--Masters-or-PhD-New-Grad-_R031915",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": "2026-10-16T14:20:17.195795+00:00",
-    "date_discovered": "2026-10-16T14:20:17.681035+00:00"
-  },
-  {
-    "id": 18453749,
-    "company_display": "Nissan",
-    "title": "Robotics Programmer Intern - Summer 2027 - Smyrna, TN",
-    "location": "Smyrna, Tennessee - United States of America",
-    "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Robotics-Programmer-Intern---Summer-2027---Smyrna--TN_R00214302",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-16T15:19:00.911367+00:00",
-    "date_discovered": "2026-10-16T15:19:02.059090+00:00"
-  },
-  {
-    "id": 18454332,
-    "company_display": "Globalfoundries",
-    "title": "Foundation IP Design Verification Intern (Summer 2027)",
-    "location": "USA - California - Santa Clara",
-    "url": "https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---California---Santa-Clara/Foundation-IP-Design-Verification-Intern--Summer-2027-_JR-2604356",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-16T17:15:38.237630+00:00",
-    "date_discovered": "2026-10-16T17:16:04.638831+00:00"
-  },
-  {
-    "id": 18455475,
-    "company_display": "Meta",
-    "title": "Signal Integrity Intern",
-    "location": "Menlo Park, CA",
-    "url": "https://www.metacareers.com/profile/job_details/1950497786328676/",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-16T21:05:12+00:00",
-    "date_discovered": "2026-10-16T21:11:54.800707+00:00"
-  },
-  {
-    "id": 18455476,
-    "company_display": "Meta",
-    "title": "Production Systems Engineering Intern",
-    "location": "Menlo Park, CA",
-    "url": "https://www.metacareers.com/profile/job_details/4536253699919879/",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-16T21:05:12+00:00",
-    "date_discovered": "2026-10-16T21:11:54.820106+00:00"
-  },
-  {
-    "id": 18455585,
-    "company_display": "Rockwell Automation",
-    "title": "Intern, Firmware Engineering",
-    "location": "Milwaukee, Wisconsin, USA",
-    "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External-Rockwell-Automation-Early-Careers/job/Milwaukee-Wisconsin-United-States/Intern--Firmware-Engineering_R26-7922",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-16T21:17:36.912641+00:00",
-    "date_discovered": "2026-10-16T21:18:11.598258+00:00"
-  },
-  {
-    "id": 18455661,
-    "company_display": "IBM",
-    "title": "Hardware Developer Engineer Intern (Mechanical) 2027 - San Jose, CA",
-    "location": "San Jose, USA",
-    "url": "https://careers.ibm.com/careers/JobDetail?jobId=137561",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-10-16T21:41:33.061885+00:00"
-  },
-  {
     "id": 18458162,
     "company_display": "Amazon",
     "title": "Data Center Infrastructure Engineering Intern, Colocation Regional Engineering",
@@ -3289,17 +3190,6 @@
     "date_discovered": "2026-11-04T12:42:30.390751+00:00"
   },
   {
-    "id": 18549342,
-    "company_display": "Lego",
-    "title": "Embedded Systems Engineering Internship",
-    "location": "Denmark",
-    "url": "https://lego.wd103.myworkdayjobs.com/en-US/LEGO_External/job/Billund-Project-House/Embedded-Systems-Engineering-Internship_0000039992-1",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-11-04T14:18:45.875418+00:00",
-    "date_discovered": "2026-11-04T14:18:46.750391+00:00"
-  },
-  {
     "id": 18549600,
     "company_display": "Skyworks Solutions",
     "title": "RF Design Automation & Validation Summer/Fall Co-Op (June - Dec '27)",
@@ -3487,17 +3377,6 @@
     "date_discovered": "2026-11-05T15:48:26.441908+00:00"
   },
   {
-    "id": 18556581,
-    "company_display": "Ametek",
-    "title": "Intern - Analog & Mixed Signal Design Engineer",
-    "location": "Pasadena, CA",
-    "url": "https://jobs.ametek.com/job/Pasadena-Intern-Analog-&-Mixed-Signal-Design-Engineer-CA-91107/1448126700/",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-11-05T16:13:50.068278+00:00"
-  },
-  {
     "id": 18557163,
     "company_display": "Lumentum",
     "title": "Internship - Field Application Engineer",
@@ -3584,17 +3463,6 @@
     "country": "international",
     "updated_at": "2026-11-05T21:18:42+00:00",
     "date_discovered": "2026-11-05T21:36:48.993454+00:00"
-  },
-  {
-    "id": 18558730,
-    "company_display": "BAE Systems",
-    "title": "Embedded Software Engineer Spring/Summer 2027",
-    "location": "Maple Grove, Minnesota, USA",
-    "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25771&siteid=5403&jobid=304860",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-11-05T22:03:14.090000+00:00",
-    "date_discovered": "2026-11-05T22:20:10.208799+00:00"
   },
   {
     "id": 18559245,
@@ -3925,17 +3793,6 @@
     "country": "us",
     "updated_at": "2026-11-10T07:09:51.042559+00:00",
     "date_discovered": "2026-11-10T07:09:55.400089+00:00"
-  },
-  {
-    "id": 18579166,
-    "company_display": "Lam Research",
-    "title": "Field Service Engineer 1",
-    "location": "CN-Beijing-03 (3462)",
-    "url": "https://lamresearch.eightfold.ai/careers/job/1099554058566",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-11-10T08:08:36.738004+00:00"
   },
   {
     "id": 18579493,
@@ -4290,17 +4147,6 @@
     "date_discovered": "2026-11-11T17:49:23.678344+00:00"
   },
   {
-    "id": 18588627,
-    "company_display": "Raytheon",
-    "title": "Electrical (FCS Hardware) Engineering Intern (Summer 2027)(Onsite)",
-    "location": "US-IA-CEDAR RAPIDS-193 ~ 1120 Collins Rd NE ~ BLDG193",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Electrical--FCS-Hardware--Engineering-Intern--Summer-2027--Onsite-_01888815",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-11-11T19:09:18.293149+00:00",
-    "date_discovered": "2026-11-11T19:13:35.388133+00:00"
-  },
-  {
     "id": 18588736,
     "company_display": "Ciena",
     "title": "Embedded Software Engineer - New Grad",
@@ -4343,17 +4189,6 @@
     "country": "us",
     "updated_at": "2026-11-11T00:00:00+00:00",
     "date_discovered": "2026-11-11T21:43:36.129976+00:00"
-  },
-  {
-    "id": 18590073,
-    "company_display": "Raytheon",
-    "title": "Electrical (Firmware) Engineering Intern (Summer 2027)(Onsite)",
-    "location": "US-IN-FT WAYNE-150A ~ 1010 Production Rd ~ BLDG 150A",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Electrical--Firmware--Engineering-Intern--Summer-2027--Onsite-_01888316",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-11-11T23:38:53.955547+00:00",
-    "date_discovered": "2026-11-11T23:43:14.604473+00:00"
   },
   {
     "id": 18590105,
@@ -4420,17 +4255,6 @@
     "country": "international",
     "updated_at": "2026-11-12T00:00:00+00:00",
     "date_discovered": "2026-11-12T12:40:30.783913+00:00"
-  },
-  {
-    "id": 18593283,
-    "company_display": "Northrop Grumman",
-    "title": "2027 Electronics Engineering Intern - Elkridge MD",
-    "location": "United States-Maryland-Elkridge",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Elkridge/XMLNAME-2027-Electronics-Engineering-Intern---Elkridge-MD_R10260310",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-11-12T13:38:17.054382+00:00",
-    "date_discovered": "2026-11-12T13:42:17.812745+00:00"
   },
   {
     "id": 18593872,
@@ -4686,17 +4510,6 @@
     "date_discovered": "2026-11-13T15:15:49.868613+00:00"
   },
   {
-    "id": 18600880,
-    "company_display": "Marvell",
-    "title": "Analog Layout Intern - BS/MS - 2027 Co-Op",
-    "location": "Toronto, Canada",
-    "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Toronto-Canada/Analog-Layout-Intern---BS-MS---2027-Co-Op_2604789",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-11-13T15:47:47.489026+00:00",
-    "date_discovered": "2026-11-13T15:47:49.291074+00:00"
-  },
-  {
     "id": 18601328,
     "company_display": "Analog Devices",
     "title": "Analog Design Engineering Intern",
@@ -4840,17 +4653,6 @@
     "date_discovered": "2026-11-13T19:36:31.428503+00:00"
   },
   {
-    "id": 18602255,
-    "company_display": "Samsung",
-    "title": "2027 SARC/ACL R&D Internship Program \u2013 Multiple Engineering Teams",
-    "location": "3900 N Capital of Texas Hwy, Austin, TX, USA; 3655 N 1st St, San Jose, CA, USA",
-    "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/3900-N-Capital-of-Texas-Hwy-Austin-TX-USA/XMLNAME-2027-SARC-ACL-R-D-Internship-Program---Multiple-Engineering-Teams_R122243",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-11-13T19:47:50.230780+00:00",
-    "date_discovered": "2026-11-13T19:47:51.627942+00:00"
-  },
-  {
     "id": 18602539,
     "company_display": "Aurora Innovation",
     "title": "Embedded Software Engineer Intern \u2014 Lidar",
@@ -4871,17 +4673,6 @@
     "country": "us",
     "updated_at": "2026-10-01T00:00:00+00:00",
     "date_discovered": "2026-11-13T20:40:38.241898+00:00"
-  },
-  {
-    "id": 18602642,
-    "company_display": "Analog Devices",
-    "title": "Design Evaluation Engineer - Summer 2027",
-    "location": "USA, CA, San Jose, Rio Robles",
-    "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Design-Evaluation-Engineer---Summer-2027_R266633",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": "2026-11-13T20:46:49.250827+00:00",
-    "date_discovered": "2026-11-13T20:46:52.011270+00:00"
   },
   {
     "id": 18602719,
@@ -4950,17 +4741,6 @@
     "date_discovered": "2026-11-14T01:19:11.503394+00:00"
   },
   {
-    "id": 18604695,
-    "company_display": "Lam Research",
-    "title": "Field Service Engineer 1",
-    "location": "SG-Singapore (3301)",
-    "url": "https://lamresearch.eightfold.ai/careers/job/1099552878483",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-11-14T02:45:17.164249+00:00"
-  },
-  {
     "id": 18608054,
     "company_display": "Eight-Sleep",
     "title": "Field Service Engineer (Contract or Intern)",
@@ -4994,17 +4774,6 @@
     "date_discovered": "2026-11-15T09:39:57.547364+00:00"
   },
   {
-    "id": 18609397,
-    "company_display": "Honeywell",
-    "title": "Intern - Bachelor's - Hardware",
-    "location": "Gurugram, Haryana, India",
-    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/162264",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-11-15T00:00:00+00:00",
-    "date_discovered": "2026-11-15T21:32:50.754068+00:00"
-  },
-  {
     "id": 18609855,
     "company_display": "Micron",
     "title": "Intern - HIG HBM Product System Engineering, Media Health Reliability",
@@ -5014,5 +4783,291 @@
     "country": "international",
     "updated_at": "2026-11-16T01:59:16.566461+00:00",
     "date_discovered": "2026-11-16T02:03:45.712137+00:00"
+  },
+  {
+    "id": 18609856,
+    "company_display": "Micron",
+    "title": "Intern - HIG HBM Product & System Engineering, Media Health Reliability",
+    "location": "Fab 10A, Singapore",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Fab-10A-Singapore/Intern---HIG-HBM-Product---System-Engineering--Media-Health-Reliability_JR114368",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-11-16T01:59:16.594111+00:00",
+    "date_discovered": "2026-11-16T02:03:45.772525+00:00"
+  },
+  {
+    "id": 18610022,
+    "company_display": "NVIDIA",
+    "title": "Product Engineer - Board (RDSS Intern)",
+    "location": "Taiwan, Hsinchu",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/Product-Engineer---Board--RDSS-Intern-_JR2024272",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-11-16T03:31:10.503710+00:00",
+    "date_discovered": "2026-11-16T03:33:40.204227+00:00"
+  },
+  {
+    "id": 18610382,
+    "company_display": "Gdit",
+    "title": "Summer 2027 Engineering (General) Internship",
+    "location": "USA VA Falls Church; USA MD Gaithersburg",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Falls-Church/Summer-2027-Engineering--General--Internship_RQ232323-1",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-11-16T05:12:15.095299+00:00",
+    "date_discovered": "2026-11-16T05:12:17.348909+00:00"
+  },
+  {
+    "id": 18610743,
+    "company_display": "Honeywell",
+    "title": "Application Engineer I - UAE Nationals Only",
+    "location": "Dubai, United Arab Emirates",
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/161674",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-11-16T00:00:00+00:00",
+    "date_discovered": "2026-11-16T08:06:44.760511+00:00"
+  },
+  {
+    "id": 18611495,
+    "company_display": "Google",
+    "title": "Product Design Engineering Intern, 2027",
+    "location": "Taipei, Taiwan; New Taipei, Banqiao District, New Taipei City, Taiwan",
+    "url": "https://careers.google.com/jobs/results/136501832733074118-product-design-engineering-intern/",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-11-16T12:36:28.848751+00:00"
+  },
+  {
+    "id": 18611634,
+    "company_display": "Google",
+    "title": "Silicon Engineering Intern, 2027",
+    "location": "New Taipei, Banqiao District, New Taipei City, Taiwan",
+    "url": "https://careers.google.com/jobs/results/94500213674123974-silicon-engineering-intern/",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-11-16T13:08:46.226277+00:00"
+  },
+  {
+    "id": 18611790,
+    "company_display": "Google",
+    "title": "Hardware Engineering Intern, 2027",
+    "location": "Taipei, Taiwan; New Taipei, Banqiao District, New Taipei City, Taiwan",
+    "url": "https://careers.google.com/jobs/results/73308226560369350-hardware-engineering-intern/",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-11-16T13:39:14.696653+00:00"
+  },
+  {
+    "id": 18612378,
+    "company_display": "Texas Instruments",
+    "title": "Kilby Labs RF Analog Design Intern - RF Modeling",
+    "location": "Dallas, TX, USA",
+    "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016351",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-11-16T00:00:00+00:00",
+    "date_discovered": "2026-11-16T15:41:01.664762+00:00"
+  },
+  {
+    "id": 18612788,
+    "company_display": "Honeywell",
+    "title": "Intern - Bachelor's - Hardware",
+    "location": "Gurugram, Haryana, India",
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/162263",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-11-16T00:00:00+00:00",
+    "date_discovered": "2026-11-16T17:11:05.617170+00:00"
+  },
+  {
+    "id": 18614293,
+    "company_display": "Indie-Semiconductor",
+    "title": "Digital Verification Engineering Intern",
+    "location": "Rabat, Morocco",
+    "url": "https://www.indie.inc/careers/job-opportunities/?gh_jid=5278887007",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-11-16T21:38:21+00:00",
+    "date_discovered": "2026-11-16T22:07:29.413792+00:00"
+  },
+  {
+    "id": 18615737,
+    "company_display": "Shield AI",
+    "title": "Engineer I, PCB - New Grad (R6065)",
+    "location": "Seattle, WA, USA",
+    "url": "https://jobs.ashbyhq.com/shield/6ef12308-4d4e-4dc9-859b-0e1f0f2ba4a7",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": "2026-11-13T01:35:00.857000+00:00",
+    "date_discovered": "2026-11-17T02:49:00.870193+00:00"
+  },
+  {
+    "id": 18615739,
+    "company_display": "Shield AI",
+    "title": "RF Engineer I - New Grad (R6108)",
+    "location": "Seattle, WA, USA",
+    "url": "https://jobs.ashbyhq.com/shield/076e1129-ec52-4ee7-9219-dabb0541dd17",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": "2026-11-13T01:15:42.155000+00:00",
+    "date_discovered": "2026-11-17T02:49:00.883947+00:00"
+  },
+  {
+    "id": 18615741,
+    "company_display": "Shield AI",
+    "title": "Software Development Engineer - New Graduate",
+    "location": "San Diego, CA, USA",
+    "url": "https://jobs.ashbyhq.com/shield/c0735824-2b3c-46a2-a888-99e7376a9606",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": "2026-11-12T21:31:21.255000+00:00",
+    "date_discovered": "2026-11-17T02:49:00.898819+00:00"
+  },
+  {
+    "id": 18615742,
+    "company_display": "Shield AI",
+    "title": "Engineer I, Mechanical Hardware Test",
+    "location": "Seattle, WA, USA",
+    "url": "https://jobs.ashbyhq.com/shield/8e4c450e-a3f3-413c-94af-f91478519530",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": "2026-10-30T13:13:17.070000+00:00",
+    "date_discovered": "2026-11-17T02:49:00.904613+00:00"
+  },
+  {
+    "id": 18615749,
+    "company_display": "Shield AI",
+    "title": "2027 June Co-op - Hardware Test - #6426",
+    "location": "Dallas, TX, USA",
+    "url": "https://jobs.ashbyhq.com/shield/ec8a822c-ccbf-4b4e-b41c-2f0db5c8342d",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-11-12T20:16:59.595000+00:00",
+    "date_discovered": "2026-11-17T02:49:00.980788+00:00"
+  },
+  {
+    "id": 18615858,
+    "company_display": "Northrop Grumman",
+    "title": "2027 Engineering Intern - Warner Robins GA",
+    "location": "United States-Georgia-Warner Robins",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Georgia-Warner-Robins/XMLNAME-2027-Engineering-Intern---Warner-Robins-GA_R10260895",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-11-17T02:50:11.070741+00:00",
+    "date_discovered": "2026-11-17T02:55:08.436547+00:00"
+  },
+  {
+    "id": 18615867,
+    "company_display": "Raytheon",
+    "title": "Hardware in the Loop Engineering Intern - (Summer 2027)",
+    "location": "US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Hardware-in-the-Loop-Engineering-Intern----Summer-2027-_01882927",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-11-17T02:52:12.180967+00:00",
+    "date_discovered": "2026-11-17T02:55:34.869704+00:00"
+  },
+  {
+    "id": 18615960,
+    "company_display": "KLA",
+    "title": "Firmware Intern",
+    "location": "Milpitas, CA",
+    "url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Firmware-Intern_2642154-1",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-11-17T02:56:47.989558+00:00",
+    "date_discovered": "2026-11-17T02:59:02.904236+00:00"
+  },
+  {
+    "id": 18616019,
+    "company_display": "Analog Devices",
+    "title": "Engineer Student Intern",
+    "location": "Philippines, Bonifacio Global City",
+    "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Philippines-Bonifacio-Global-City/Engineer-Student-Intern_R268297",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-11-17T02:58:36.365476+00:00",
+    "date_discovered": "2026-11-17T03:00:32.497843+00:00"
+  },
+  {
+    "id": 18616020,
+    "company_display": "Analog Devices",
+    "title": "Embedded Hardware & Firmware Intern (Health Solutions)",
+    "location": "USA, MA, Wilmington",
+    "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Embedded-Hardware---Firmware-Intern--Health-Solutions-_R269166",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-11-17T02:58:36.366067+00:00",
+    "date_discovered": "2026-11-17T03:00:32.504516+00:00"
+  },
+  {
+    "id": 18616021,
+    "company_display": "Analog Devices",
+    "title": "Digital Verification Engineer Intern",
+    "location": "Italy, Milan, Assago",
+    "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Italy-Milan-Assago/Digital-Verification-Engineer-Intern_R268182-1",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-11-17T02:58:36.391648+00:00",
+    "date_discovered": "2026-11-17T03:00:32.509653+00:00"
+  },
+  {
+    "id": 18616034,
+    "company_display": "Globalfoundries",
+    "title": "Junior Application Engineer",
+    "location": "DEU - Bavaria - Munich",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/DEU---Bavaria---Munich/Junior-Application-Engineer_JR-2604177",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-11-17T02:58:31.899393+00:00",
+    "date_discovered": "2026-11-17T03:00:40.760701+00:00"
+  },
+  {
+    "id": 18616095,
+    "company_display": "Samsung",
+    "title": "2027 SARC/ACL R&D Internship Program \u2013 Multiple Engineering Teams",
+    "location": "3900 N Capital of Texas Hwy, Austin, TX, USA; 3655 N 1st St, San Jose, CA, USA",
+    "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/3900-N-Capital-of-Texas-Hwy-Austin-TX-USA/XMLNAME-2027-SARC-ACL-R-D-Internship-Program---Multiple-Engineering-Teams_R122278-1",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-11-17T02:59:34.504887+00:00",
+    "date_discovered": "2026-11-17T03:02:24.752072+00:00"
+  },
+  {
+    "id": 18616167,
+    "company_display": "Ciena",
+    "title": "Interconnect Systems Engineer - New Grad",
+    "location": "Ottawa",
+    "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Interconnect-Systems-Engineer---New-Grad_R031831",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-11-17T03:01:34.012153+00:00",
+    "date_discovered": "2026-11-17T03:05:11.734890+00:00"
+  },
+  {
+    "id": 18616189,
+    "company_display": "Silicon-Labs",
+    "title": "RF Validation Internship",
+    "location": "Budapest, Hungary",
+    "url": "https://silabs.wd1.myworkdayjobs.com/en-US/SiliconLabsCareers/job/RF-Validation-Internship_21229-3",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-11-17T03:02:09.719170+00:00",
+    "date_discovered": "2026-11-17T03:06:25.744014+00:00"
+  },
+  {
+    "id": 18616347,
+    "company_display": "Apple",
+    "title": "Cellular RF Receiver Silicon Validation Engineering Intern",
+    "location": "Austria",
+    "url": "https://jobs.apple.com/en-us/details/200688714/cellular-rf-receiver-silicon-validation-engineering-intern?team=HRDWR",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-11-17T02:48:21.601000+00:00",
+    "date_discovered": "2026-11-17T03:49:35.232435+00:00"
   }
 ]
