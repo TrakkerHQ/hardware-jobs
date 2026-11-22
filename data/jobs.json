@@ -1,269 +1,5 @@
 [
   {
-    "id": 18475197,
-    "company_display": "Synopsys",
-    "title": "Technical Engineering Intern - Design for Test (DFT) Internship",
-    "location": "Not specified",
-    "url": "https://synopsys.avature.net/careers/JobDetail/Intern-Technical-Engineering-19332/19332?businessTitle=Technical+Engineering+Intern+-+Design+for+Test+%28DFT%29+Internship",
-    "skill_level": "intern",
-    "country": null,
-    "updated_at": null,
-    "date_discovered": "2026-10-21T09:04:24.061485+00:00"
-  },
-  {
-    "id": 18475431,
-    "company_display": "Marvell",
-    "title": "Design Engineer Intern",
-    "location": "Yokneam",
-    "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Yokneam/Design-Engineer-Intern_2604491",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-10-21T09:14:17.251877+00:00",
-    "date_discovered": "2026-10-21T09:14:17.610609+00:00"
-  },
-  {
-    "id": 18475799,
-    "company_display": "Analog Devices",
-    "title": "Analog Design Engineering Intern",
-    "location": "United Kingdom, Edinburgh, SC, Freer",
-    "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/United-Kingdom-Edinburgh-SC-Freer/Analog-Design-Engineering-Intern_R267421",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-10-21T11:46:06.671102+00:00",
-    "date_discovered": "2026-10-21T11:46:08.584608+00:00"
-  },
-  {
-    "id": 18475872,
-    "company_display": "Marvell",
-    "title": "Silicon Photonics Intern",
-    "location": "Singapore",
-    "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Singapore/Silicon-Photonics-Intern_2604444",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-10-21T11:49:32.454856+00:00",
-    "date_discovered": "2026-10-21T11:49:32.821507+00:00"
-  },
-  {
-    "id": 18476481,
-    "company_display": "BorgWarner",
-    "title": "EMC Design Engineer Intern (Year-Round)",
-    "location": "Kokomo Technical Center - Indiana - USA",
-    "url": "https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/EMC-Design-Engineer-Intern--Year-Round-_R2026-4152",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-21T13:47:48.272165+00:00",
-    "date_discovered": "2026-10-21T13:47:50.327759+00:00"
-  },
-  {
-    "id": 18476540,
-    "company_display": "STMicroelectronics",
-    "title": "Internship: Analog Design Engineer",
-    "location": "Pisa, Italy",
-    "url": "https://stmicroelectronics.eightfold.ai/careers/job/563637173565547",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-10-21T14:12:23.156551+00:00"
-  },
-  {
-    "id": 18476822,
-    "company_display": "Marvell",
-    "title": "Silicon Validation Intern, BS - Summer 2027",
-    "location": "Santa Clara, CA",
-    "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Silicon-Validation-Intern--BS---Summer-2027_2603850-1",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-21T14:48:36.859296+00:00",
-    "date_discovered": "2026-10-21T14:48:37.845722+00:00"
-  },
-  {
-    "id": 18476922,
-    "company_display": "Analog Devices",
-    "title": "Applications Engineering - Field Applications Intern",
-    "location": "Germany, Munich, Otl-Aicher-Strasse",
-    "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Applications-Engineering---Field-Applications-Intern_R267087",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-10-21T15:16:44.564479+00:00",
-    "date_discovered": "2026-10-21T15:16:45.961635+00:00"
-  },
-  {
-    "id": 18476980,
-    "company_display": "Aerospace-Corporation",
-    "title": "2027 Embedded Software Engineering Grad Intern",
-    "location": "El Segundo, CA",
-    "url": "https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Embedded-Software-Engineering-Grad-Intern_R016950",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-21T15:19:38.389429+00:00",
-    "date_discovered": "2026-10-21T15:19:39.555219+00:00"
-  },
-  {
-    "id": 18476981,
-    "company_display": "Aerospace-Corporation",
-    "title": "2027 Embedded Software Engineering Undergrad Intern",
-    "location": "El Segundo, CA",
-    "url": "https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Embedded-Software-Engineering-Undergrad-Intern_R016949",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-21T15:19:38.389797+00:00",
-    "date_discovered": "2026-10-21T15:19:39.574823+00:00"
-  },
-  {
-    "id": 18476983,
-    "company_display": "Aerospace-Corporation",
-    "title": "2027 Digital Signals & RF Engineering Grad Intern",
-    "location": "El Segundo, CA",
-    "url": "https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Digital-Signals---RF-Engineering-Grad-Intern_R016952",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-21T15:19:38.390697+00:00",
-    "date_discovered": "2026-10-21T15:19:39.632363+00:00"
-  },
-  {
-    "id": 18476984,
-    "company_display": "Aerospace-Corporation",
-    "title": "2027 Digital Signals & RF Engineering Undergrad Intern",
-    "location": "El Segundo, CA",
-    "url": "https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Digital-Signals---RF-Engineering-Undergrad-Intern_R016951",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-21T15:19:38.391128+00:00",
-    "date_discovered": "2026-10-21T15:19:39.651754+00:00"
-  },
-  {
-    "id": 18476985,
-    "company_display": "Aerospace-Corporation",
-    "title": "2027 Hardware Security Engineering Grad Intern",
-    "location": "El Segundo, CA; Chantilly, VA",
-    "url": "https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Hardware-Security-Engineering-Grad-Intern_R016953",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-21T15:19:38.391412+00:00",
-    "date_discovered": "2026-10-21T15:19:39.667691+00:00"
-  },
-  {
-    "id": 18477069,
-    "company_display": "Analog Devices",
-    "title": "AMS Design Verification Intern",
-    "location": "Italy, Milan, Assago",
-    "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Italy-Milan-Assago/AMS-Design-Verification-Intern_R267539",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-10-21T15:45:29.577439+00:00",
-    "date_discovered": "2026-10-21T15:45:40.560448+00:00"
-  },
-  {
-    "id": 18477070,
-    "company_display": "Analog Devices",
-    "title": "Analog Designer Intern",
-    "location": "Italy, Milan, Assago",
-    "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Italy-Milan-Assago/Analog-Designer-Intern_R267540-1",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-10-21T15:45:29.577734+00:00",
-    "date_discovered": "2026-10-21T15:45:40.581880+00:00"
-  },
-  {
-    "id": 18477128,
-    "company_display": "Aerospace-Corporation",
-    "title": "2027 Signal Processing and RF Engineering Grad Intern",
-    "location": "El Segundo, CA",
-    "url": "https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Signal-Processing-and-RF-Engineering-Grad-Intern_R016848",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-21T15:47:52.614010+00:00",
-    "date_discovered": "2026-10-21T15:47:54.334965+00:00"
-  },
-  {
-    "id": 18477129,
-    "company_display": "Aerospace-Corporation",
-    "title": "2027 Signal Processing and RF Engineering Undergrad Intern",
-    "location": "El Segundo, CA",
-    "url": "https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Signal-Processing-and-RF-Engineering-Undergrad-Intern_R016849",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-21T15:47:52.614575+00:00",
-    "date_discovered": "2026-10-21T15:47:54.371436+00:00"
-  },
-  {
-    "id": 18477130,
-    "company_display": "Aerospace-Corporation",
-    "title": "2027 Hardware Security Engineering Undergrad Intern",
-    "location": "El Segundo, CA; Chantilly, VA",
-    "url": "https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Hardware-Security-Engineering-Undergrad--Intern_R016954",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-21T15:47:52.664346+00:00",
-    "date_discovered": "2026-10-21T15:47:54.413368+00:00"
-  },
-  {
-    "id": 18477244,
-    "company_display": "Analog Devices",
-    "title": "Analog IC Designer Intern",
-    "location": "Italy, Catania",
-    "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Italy-Catania/Analog-IC-Designer-Intern_R267536-1",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-10-21T16:15:34.470491+00:00",
-    "date_discovered": "2026-10-21T16:15:56.522189+00:00"
-  },
-  {
-    "id": 18477245,
-    "company_display": "Analog Devices",
-    "title": "Digital Design Engineering Intern",
-    "location": "Italy, Milan, Assago",
-    "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Italy-Milan-Assago/Digital-Design-Engineering-Intern_R267538",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-10-21T16:15:34.649933+00:00",
-    "date_discovered": "2026-10-21T16:15:56.560201+00:00"
-  },
-  {
-    "id": 18477309,
-    "company_display": "BAE Systems",
-    "title": "Entry Level Engineer, VERGE Mentoring Program",
-    "location": "Endicott, New York, USA",
-    "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25771&siteid=5403&jobid=305282",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": "2026-10-21T16:04:30.220000+00:00",
-    "date_discovered": "2026-10-21T16:18:46.047966+00:00"
-  },
-  {
-    "id": 18477400,
-    "company_display": "Analog Devices",
-    "title": "Layout Designer Intern",
-    "location": "Spain, Valencia, Cortes Valencianas",
-    "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Spain-Valencia-Cortes-Valencianas/Layout-Designer-Intern_R267124",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-10-21T16:46:56.660230+00:00",
-    "date_discovered": "2026-10-21T16:46:59.115349+00:00"
-  },
-  {
-    "id": 18477499,
-    "company_display": "Micron",
-    "title": "Intern - SMS Pathfinding Engineering",
-    "location": "Richardson, TX",
-    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Richardson-TX/Intern---SMS-Pathfinding-Engineering_JR115034",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-21T17:07:26.419794+00:00",
-    "date_discovered": "2026-10-21T17:12:04.661275+00:00"
-  },
-  {
-    "id": 18478932,
-    "company_display": "Qualcomm",
-    "title": "FY27 Intern - Edge AI and Display Hardware Architecture Development Engineering Internship - Canada (16 months)",
-    "location": "Markham, Ontario, Canada",
-    "url": "https://careers.qualcomm.com/careers/job/446721661830",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-10-21T21:44:37.161162+00:00"
-  },
-  {
     "id": 18480396,
     "company_display": "NVIDIA",
     "title": "Client System Firmware Engineer (RDSS Intern)",
@@ -592,17 +328,6 @@
     "country": "us",
     "updated_at": "2026-10-23T12:26:18+00:00",
     "date_discovered": "2026-10-23T12:41:59.029827+00:00"
-  },
-  {
-    "id": 18488190,
-    "company_display": "General Dynamics",
-    "title": "Hardware/Electrical Intern Engineer",
-    "location": "Scottsdale, AZ, USA",
-    "url": "https://www.gd.com/careers/hardware-electrical-intern-engineer-scottsdale-az-us-2026-75776-gdms-opportunity",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-22T00:00:00+00:00",
-    "date_discovered": "2026-10-23T12:41:59.123303+00:00"
   },
   {
     "id": 18488357,
@@ -3949,17 +3674,6 @@
     "date_discovered": "2026-11-13T21:41:59.717590+00:00"
   },
   {
-    "id": 18603826,
-    "company_display": "IBM",
-    "title": "Entry Level Analog Circuit Design Engineer 2027 -Rochester, MN",
-    "location": "ROCHESTER, USA",
-    "url": "https://careers.ibm.com/careers/JobDetail?jobId=143344",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-11-14T00:11:58.558082+00:00"
-  },
-  {
     "id": 18604263,
     "company_display": "Amazon",
     "title": "Data Center Infrastructure Engineer Intern, Summer 2027 - West Coast",
@@ -3969,6 +3683,17 @@
     "country": "us",
     "updated_at": null,
     "date_discovered": "2026-11-14T01:19:11.503394+00:00"
+  },
+  {
+    "id": 18604695,
+    "company_display": "Lam Research",
+    "title": "Field Service Engineer 1",
+    "location": "SG-Singapore (3301)",
+    "url": "https://lamresearch.eightfold.ai/careers/job/1099552878483",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-11-14T02:45:17.164249+00:00"
   },
   {
     "id": 18608054,
@@ -4453,17 +4178,6 @@
     "country": "international",
     "updated_at": "2026-11-18T07:10:59.403018+00:00",
     "date_discovered": "2026-11-18T07:11:01.901976+00:00"
-  },
-  {
-    "id": 18623539,
-    "company_display": "Synopsys",
-    "title": "Formal Verification Internship",
-    "location": "Not specified",
-    "url": "https://synopsys.avature.net/careers/JobDetail/Intern-Technical-Engineer-19153/19153?businessTitle=Formal+Verification+Internship",
-    "skill_level": "intern",
-    "country": null,
-    "updated_at": null,
-    "date_discovered": "2026-11-18T09:04:36.661116+00:00"
   },
   {
     "id": 18623694,
@@ -5278,5 +4992,27 @@
     "country": "us",
     "updated_at": "2026-11-21T00:07:46+00:00",
     "date_discovered": "2026-11-21T00:37:21.482783+00:00"
+  },
+  {
+    "id": 18643045,
+    "company_display": "Aurora Innovation",
+    "title": "Hardware Systems Engineering Intern",
+    "location": "Pittsburgh, PA",
+    "url": "https://jobs.ashbyhq.com/aurora-operations-inc/f1c72f1c-8270-4526-a642-fcb61a4b4d26",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-01T22:30:03.263000+00:00",
+    "date_discovered": "2026-11-21T04:06:16.366824+00:00"
+  },
+  {
+    "id": 18643046,
+    "company_display": "Aurora",
+    "title": "Hardware Systems Engineering Intern",
+    "location": "Pittsburgh, PA",
+    "url": "https://aurora.tech/careers?ashby_jid=f1c72f1c-8270-4526-a642-fcb61a4b4d26",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-01T00:00:00+00:00",
+    "date_discovered": "2026-11-21T04:10:22.385299+00:00"
   }
 ]
